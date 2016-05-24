@@ -1,0 +1,15 @@
+1 Overview 
+
+DSPAM was originally written by Jonathan Zdziarski, an American developer, in 2003, following his research on the classification of spam. DSPAM was subsequently sold in 2006 to Sensory Networks. Since the beginning DSPAM was released under GPLv2 or later and got changed to GPLv2 in 2009. Since 2009, DSPAM is maintained by a small group of developers.
+
+DSPAM is mainly written in C and requires a backend to store the data. Drivers for MySQL, PostgreSQL and SQLite are available; it is also possible to rely on a Hash Driver that create data files on disk, for use without a relational database. This “Hash Driver” is the default option and used to be the fastest, but nowadays a PostgreSQL backend is preferred.
+
+DSPAM produces statistical data for each user because this approach is proved to be more efficient than having a global ruleset for all users (see Technology below). Thus, each address of the domain (as <user> @ <domain> or normal flat names as <user>) has tokenized data in one of the supported storage engines (MySQL, PostgreSQL, SQLite or Hash Driver) and some additional data like logs, statistics for the Web-UI, quarantine, corpi, preferences, etc in DSPAM's data directory. It is possible to share information between multiple users in the form of groups. There are several types of groups, which we will detail later.
+1.1 Technology 
+
+Back in 2002, Paul Graham, another U.S. developer, published “A Plan for Spam”, an article that changed the way people analyze spam. In the early days antispam rules were largely based on criteria specific to spam such as “under capitalized” or “contains 48 exclamation points”. Paul Graham has worked on such rules, which worked pretty well, but the problem was that a low percentage of false positives result, on the order of 1 to 2%, was extremely difficult to filter. 
+
+His idea, which others had before him without the same influence, is to divide the content of an e-mail into tokens; a token being typically a word, a component of headers, an html tag, etc. … and calculate statistics on them using the Bayes algorithm. The results being very satisfactory, Graham's technique has become the norm and is at the heart of DSPAM.
+
+Graham has also shown that, to be truly effective, statistics should be produced for each user individually. Using a global basis for all users is less effective, since some words commonly used by a user may be considered spam to another (those of you who work for pharmaceutical companies certainly understand the principle). 
+
