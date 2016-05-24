@@ -1,0 +1,1212 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>日本語の表記体系 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"日本語の表記体系","wgTitle":"日本語の表記体系","wgCurRevisionId":58656736,"wgRevisionId":58656736,"wgArticleId":378548,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["参照方法","出典を必要とする記述のある記事/2012年2月","音節文字","表語文字","日本語の表記"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"日本語の表記体系","wgRelevantArticleId":378548,"wgRequestId":"V0QguwpAEEYAAGmty-oAAACO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"日本語","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q190502","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgSiteNoticeId":"2.41"});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.dismissableSiteNotice.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB"/>
+<link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit"/>
+<link rel="edit" title="編集" href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-日本語の表記体系 rootpage-日本語の表記体系 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003E非表示\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"ja\" dir=\"ltr\"\u003E\u003Cp\u003E\u003Ca href=\"/wiki/Help:%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC\" title=\"Help:ビジュアルエディター\"\u003Eビジュアルエディター\u003C/a\u003Eが\u003Ca href=\"/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B#The_visual_editor_is_now_active_here\" title=\"Wikipedia:お知らせ\"\u003Eウィキペディア日本語版にも導入されました\u003C/a\u003E（\u003Ca href=\"//www.mediawiki.org/wiki/VisualEditor/Single_edit_tab/ja\" class=\"extiw\" title=\"mw:VisualEditor/Single edit tab/ja\"\u003E詳細\u003C/a\u003E）。\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="ja">日本語の表記体系</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					移動先:					<a href="#mw-head">案内</a>、					<a href="#p-search">検索</a>
+				</div>
+				<div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr"><table class="plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span"><b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_(%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88)#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE" title="Wikipedia:スタイルマニュアル (レイアウト)">出典</a>は列挙するだけでなく、<a href="/wiki/Help:%E8%84%9A%E6%B3%A8" title="Help:脚注">脚注</a>などを用いて<a href="/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#.E5.87.BA.E5.85.B8.E3.81.AE.E7.A4.BA.E3.81.97.E6.96.B9" title="Wikipedia:出典を明記する">どの記述の情報源であるかを明記</a>してください。</b>記事の<a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性">信頼性向上</a>にご協力をお願いいたします。<small>（<span title="2010年2月">2010年2月</span>）</small></span></td>
+</tr>
+</table>
+<table class="infobox bordered" style="width:22em;">
+<tr>
+<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; background-color: khaki;">日本語の表記体系<br /></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heibon-pp.10-11.jpg" class="image"><img alt="Heibon-pp.10-11.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heibon-pp.10-11.jpg/280px-Heibon-pp.10-11.jpg" width="280" height="252" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heibon-pp.10-11.jpg/420px-Heibon-pp.10-11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heibon-pp.10-11.jpg/560px-Heibon-pp.10-11.jpg 2x" data-file-width="2476" data-file-height="2228" /></a>
+<div style="">漢字仮名交じり文で書かれた<a href="/wiki/%E5%B0%8F%E8%AA%AC" title="小説">小説</a>。<a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>には<a href="/wiki/%E3%83%AB%E3%83%93" title="ルビ">振り仮名</a>が振られている。<a href="/wiki/1908%E5%B9%B4" title="1908年">1908年</a>。</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">類型:</th>
+<td><a href="/wiki/%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97" title="表語文字">表語文字</a>（<a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>）と<a href="/wiki/%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD%97" title="音節文字">音節文字</a>（<a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">平仮名</a>と<a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">片仮名</a>）の併用</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">言語:</th>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">時期:</th>
+<td><a href="/wiki/4%E4%B8%96%E7%B4%80" title="4世紀">4世紀</a>-現在</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;">親の文字体系:</th>
+<td>
+<div style="line-height:100%;"><a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a> - <a href="/wiki/%E4%B8%87%E8%91%89%E4%BB%AE%E5%90%8D" title="万葉仮名">万葉仮名</a>
+<ul style="line-height:100%; margin-left:15px; padding-left:0">
+<li>日本語の表記体系</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/Unicode" title="Unicode">Unicode範囲</a>:</th>
+<td><a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>の範囲（漢字）<br />
+<a rel="nofollow" class="external text" href="http://www.unicode.org/charts/PDF/U3040.pdf">U+3040–U+309F</a>（平仮名）<br />
+<a rel="nofollow" class="external text" href="http://www.unicode.org/charts/PDF/U30A0.pdf">U+30A0–U+30FF</a>（片仮名）</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left; white-space:nowrap;"><a href="/wiki/ISO_15924" title="ISO 15924">ISO 15924 コード</a>:</th>
+<td><tt>Jpan</tt></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><b>注意</b>: このページは<a href="/wiki/Unicode" title="Unicode">Unicode</a>で書かれた<a href="/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7" title="国際音声記号">国際音声記号</a> (IPA) を含む場合があります。</td>
+</tr>
+</table>
+<p><b>日本語の表記体系</b>（にほんごのひょうきたいけい）では、<a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>の<a href="/wiki/%E6%96%87%E7%AB%A0" title="文章">文章</a>等を<a href="/wiki/%E6%96%87%E5%AD%97" title="文字">文字</a>によって表記するための系統的な方法について解説する。本項目では<a href="/wiki/%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E" title="現代日本語" class="mw-redirect">現代日本語</a>の<a href="/wiki/%E6%96%87%E5%AD%97#.E6.96.87.E5.AD.97.E4.BD.93.E7.B3.BB.E3.81.A8.E8.A1.A8.E8.A8.98.E4.BD.93.E7.B3.BB" title="文字">表記体系</a>とその<a href="/wiki/%E6%AD%B4%E5%8F%B2" title="歴史">歴史</a>を扱っている。日本語の概略に関しては<a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>を参照。</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目次</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">概要</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.96.87.E5.AD.97.E7.A8.AE.E3.81.AE.E4.BD.BF.E3.81.84.E5.88.86.E3.81.91"><span class="tocnumber">2</span> <span class="toctext">文字種の使い分け</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.BC.A2.E5.AD.97.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B"><span class="tocnumber">2.1</span> <span class="toctext">漢字が使われる事例</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.81.B2.E3.82.89.E3.81.8C.E3.81.AA.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B"><span class="tocnumber">2.2</span> <span class="toctext">ひらがなが使われる事例</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E3.82.AB.E3.82.BF.E3.82.AB.E3.83.8A.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B"><span class="tocnumber">2.3</span> <span class="toctext">カタカナが使われる事例</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E3.83.AD.E3.83.BC.E3.83.9E.E5.AD.97.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B"><span class="tocnumber">2.4</span> <span class="toctext">ローマ字が使われる事例</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E4.BE.8B.E5.A4.96"><span class="tocnumber">2.5</span> <span class="toctext">例外</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E6.96.87.E5.AD.97.E7.A8.AE.E3.81.AE.E6.84.8F.E5.9B.B3.E7.9A.84.E3.81.AA.E9.81.B8.E6.8A.9E"><span class="tocnumber">2.6</span> <span class="toctext">文字種の意図的な選択</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.E8.A1.A8.E8.A8.98.E3.81.99.E3.82.8B.E6.96.B9.E5.90.91"><span class="tocnumber">3</span> <span class="toctext">表記する方向</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#.E5.88.9D.E6.9C.9F.E3.81.AE.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E7.B3.BB"><span class="tocnumber">4</span> <span class="toctext">初期の日本語表記系</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#.E5.80.9F.E5.AD.97.E3.81.A8.E6.BC.A2.E5.AD.97.E6.96.87"><span class="tocnumber">4.1</span> <span class="toctext">借字と漢字文</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E6.BC.A2.E5.AD.97.E3.81.8B.E3.81.AA.E4.BA.A4.E3.81.98.E3.82.8A.E6.96.87.E3.81.AE.E6.88.90.E7.AB.8B"><span class="tocnumber">4.2</span> <span class="toctext">漢字かな交じり文の成立</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.E9.9F.B3.E8.AA.AD.E3.81.BF.E3.81.A8.E8.A8.93.E8.AA.AD.E3.81.BF"><span class="tocnumber">4.3</span> <span class="toctext">音読みと訓読み</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.E3.81.A8.E3.81.97.E3.81.A6.E3.81.AE.E6.BC.A2.E8.AA.9E"><span class="tocnumber">4.4</span> <span class="toctext">日本語としての漢語</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E6.BC.A2.E5.AD.97.E3.81.8B.E3.81.AA.E4.BA.A4.E3.81.98.E3.82.8A.E6.96.87.E3.81.AE.E6.84.8F.E7.BE.A9"><span class="tocnumber">4.5</span> <span class="toctext">漢字かな交じり文の意義</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E6.B3.95.E3.81.AE.E5.A4.89.E5.8C.96"><span class="tocnumber">5</span> <span class="toctext">日本語表記法の変化</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#.E6.98.8E.E6.B2.BB.E6.99.82.E4.BB.A3"><span class="tocnumber">5.1</span> <span class="toctext">明治時代</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#.E7.AC.AC.E4.BA.8C.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.A6.E5.89.8D"><span class="tocnumber">5.2</span> <span class="toctext">第二次世界大戦前</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#.E7.AC.AC.E4.BA.8C.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.A6.E5.BE.8C"><span class="tocnumber">5.3</span> <span class="toctext">第二次世界大戦後</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#.E3.83.8B.E3.83.A5.E3.82.A2.E3.83.B3.E3.82.B9.E3.82.92.E4.BC.9D.E3.81.88.E3.82.8B.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E7.B3.BB"><span class="tocnumber">6</span> <span class="toctext">ニュアンスを伝える日本語表記系</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#.E3.83.AD.E3.83.BC.E3.83.9E.E5.AD.97.E8.BB.A2.E5.86.99"><span class="tocnumber">7</span> <span class="toctext">ローマ字転写</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE"><span class="tocnumber">8</span> <span class="toctext">参考文献</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">9</span> <span class="toctext">関連項目</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#.E6.96.87.E5.AD.97.E3.81.AE.E6.9B.B8.E4.BD.93"><span class="tocnumber">9.1</span> <span class="toctext">文字の書体</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#.E4.BB.AE.E5.90.8D.E3.81.AE.E7.95.B0.E4.BD.93"><span class="tocnumber">9.2</span> <span class="toctext">仮名の異体</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">10</span> <span class="toctext">外部リンク</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=1" title="節を編集: 概要">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>現代の日本語では、主に以下の3種類の<a href="/wiki/%E6%96%87%E5%AD%97%E4%BD%93%E7%B3%BB" title="文字体系" class="mw-redirect">文字体系</a>が用いられる。</p>
+<table class="wikitable">
+<tr>
+<th><a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a></th>
+<td><a href="/wiki/%E4%B8%AD%E5%9B%BD" title="中国">中国</a>を<a href="/wiki/%E8%B5%B7%E6%BA%90" title="起源" class="mw-redirect">起源</a>とする<a href="/wiki/%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97" title="表語文字">表語文字</a>である。<a href="/wiki/%E5%9B%BD%E5%AD%97" title="国字">国字</a>と呼ばれる<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>で造られた漢字も追加されている。</td>
+</tr>
+<tr>
+<th><a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">平仮名</a>（ひらがな）</th>
+<td>漢字の<a href="/wiki/%E8%8D%89%E6%9B%B8%E4%BD%93" title="草書体">草書体</a>より日本で作られた<a href="/wiki/%E8%A1%A8%E9%9F%B3%E6%96%87%E5%AD%97" title="表音文字">表音文字</a>（<a href="/wiki/%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD%97" title="音節文字">音節文字</a>）である。</td>
+</tr>
+<tr>
+<th><a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">片仮名</a>（カタカナ）</th>
+<td>漢字の一部を省略表記して日本で作られた表音文字（音節文字）である。</td>
+</tr>
+</table>
+<p>これらの<a href="/wiki/%E6%96%87%E5%AD%97" title="文字">文字</a>を併用して表記された文章が<b><a href="/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4" title="仮名交" class="mw-redirect">仮名交</a></b>（かなまじり）または<b><a href="/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4%E6%96%87" title="仮名交文" class="mw-redirect">仮名交文</a></b>（かなまじりぶん）と呼ばれる、現在の日本での標準的な文章である。これは、「それまで公式とされた<b><a href="/wiki/%E6%BC%A2%E6%96%87" title="漢文">漢文</a></b>に、<b><a href="/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)" title="仮名 (文字)">仮名</a></b>が<b>交</b>じっている」という意味だが、漢字とかなの併用が標準となった現代ではかえって読みにくく、また意味が掴みにくい。そのため、送り仮名をつけた「<a href="/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4%E3%81%98%E3%82%8A%E6%96%87" title="仮名交じり文">仮名交じり文</a>」や更に漢字との併用であることを明記した「<b>漢字仮名交じり文</b>」といった表現で示される場合がある。</p>
+<p><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E" title="ローマ">ローマ</a>由来の<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88" title="アルファベット">アルファベット</a>（<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5%AD%97" title="ラテン文字">ラテン文字</a>）を用いて日本語を表記することもでき、日本では<b><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="ローマ字">ローマ字</a></b>と呼ばれる。個々の<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5%AD%97" title="ラテン文字">ラテン文字</a>を、<a href="/wiki/%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB" title="イニシャル">イニシャル</a>や略号として、漢字・かなと併用して記すことは普通に行われているが、<a href="/wiki/%E6%AF%8D%E8%AA%9E" title="母語">母語</a>話者が文章全体をローマ字で記すことは稀である。</p>
+<p>一例として<a href="/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E" title="朝日新聞">朝日新聞</a>のニュース記事（<a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a><a href="/wiki/4%E6%9C%8819%E6%97%A5" title="4月19日">4月19日</a>）の見出しを次に示す。ここでは上記4種類の文字システムがすべて用いられている。<span style="color: #ff8000;">漢字<span style="color: black;">は</span><b>太字オレンジ</b></span>、<span style="color: blue;">ひらがな<span style="color: black;">は</span>青</span>、<span style="color: #00aa60;">カタカナ<span style="color: black;">は</span>緑</span>、<span style="color: #777777;">ローマ字<span style="color: black;">と</span>アラビア数字<span style="color: black;">は</span><ins>下線灰色</ins></span>で示す：</p>
+<dl>
+<dd><span style="color: #00aa60;">ラドクリフ<span style="color: black;">、</span>マラソン</span><span style="color: #ff8000;"><b>五輪代表</b></span><span style="color: blue;">に</span><span style="color: #777777;"><ins>1</ins></span><span style="color: #ff8000;"><b>万</b></span><span style="color: #777777;"><ins>m</ins></span><span style="color: #ff8000;"><b>出場</b></span><span style="color: blue;">にも</span><span style="color: #ff8000;"><b>含</b></span><span style="color: blue;">み</span></dd>
+</dl>
+<p>日本語で書かれた単語の例を以下にいくつか示す：</p>
+<table class="wikitable">
+<tr>
+<th rowspan="2" colspan="2"></th>
+<th colspan="3">文字</th>
+<th rowspan="2">ローマ字転写<br />
+<small>ヘボン式</small></th>
+</tr>
+<tr>
+<th>漢字</th>
+<th>ひらがな</th>
+<th>カタカナ</th>
+</tr>
+<tr>
+<th rowspan="3">語種</th>
+<th><a href="/wiki/%E5%A4%A7%E5%92%8C%E8%A8%80%E8%91%89" title="大和言葉">大和言葉</a></th>
+<td>私</td>
+<td>わたし</td>
+<td>ワタシ</td>
+<td>watashi</td>
+</tr>
+<tr>
+<th><a href="/wiki/%E6%BC%A2%E8%AA%9E" title="漢語">漢語</a></th>
+<td>金魚</td>
+<td>きんぎょ</td>
+<td>キンギョ</td>
+<td>kingyo</td>
+</tr>
+<tr>
+<th><a href="/wiki/%E5%A4%96%E6%9D%A5%E8%AA%9E" title="外来語">外来語</a></th>
+<td>煙草</td>
+<td>たばこ</td>
+<td>タバコ</td>
+<td>tabako</td>
+</tr>
+</table>
+<p>日本語辞典（いわゆる<a href="/wiki/%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8" title="国語辞典">国語辞典</a>）での単語の配列法は第一に漢字ではなく、<a href="/wiki/%E8%A1%A8%E9%9F%B3%E6%96%87%E5%AD%97" title="表音文字">表音文字</a>である仮名を基盤とする。ローマ字で書かれる単語も例外ではなく、その場合見出しは<a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">片仮名</a>による。仮名の配列には「<a href="/wiki/%E4%BA%94%E5%8D%81%E9%9F%B3%E9%A0%86" title="五十音順">五十音順</a>」と「<a href="/wiki/%E3%81%84%E3%82%8D%E3%81%AF%E9%A0%86" title="いろは順">いろは順</a>」の2種類がある。後者は古式でありこれに従う辞典は<a href="/wiki/%E7%AF%80%E7%94%A8%E9%9B%86" title="節用集">かつて存在した</a>が、現在ではもはや存在しない。ここで<a href="/wiki/%E5%90%8C%E9%9F%B3%E7%95%B0%E7%BE%A9%E8%AA%9E" title="同音異義語">同音異義語</a>である<a href="/wiki/%E6%BC%A2%E8%AA%9E" title="漢語">漢語</a>の配列が問題になる。この点、<a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>は総画数、<a href="/wiki/%E9%83%A8%E9%A6%96" title="部首">部首</a>によって配列されている。</p>
+<p>他方、<a href="/wiki/%E6%BC%A2%E5%92%8C%E8%BE%9E%E5%85%B8" title="漢和辞典">漢和辞典</a>では漢字は<a href="/wiki/%E9%83%A8%E9%A6%96" title="部首">部首</a>、<a href="/wiki/%E7%94%BB%E6%95%B0" title="画数" class="mw-redirect">画数</a>の順に配列されており、漢字ごとにその字で始まる漢語が、漢字を見出しとして、その読み方の五十音順に配列されている。詳しくは該当項目を参照。</p>
+<h2><span class="mw-headline" id=".E6.96.87.E5.AD.97.E7.A8.AE.E3.81.AE.E4.BD.BF.E3.81.84.E5.88.86.E3.81.91">文字種の使い分け</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=2" title="節を編集: 文字種の使い分け">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_hiragana.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/220px-Table_hiragana.svg.png" width="220" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/330px-Table_hiragana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/440px-Table_hiragana.svg.png 2x" data-file-width="768" data-file-height="464" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_hiragana.svg" class="internal" title="拡大"></a></div>
+ひらがな表</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_katakana.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Table_katakana.svg/220px-Table_katakana.svg.png" width="220" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Table_katakana.svg/330px-Table_katakana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Table_katakana.svg/440px-Table_katakana.svg.png 2x" data-file-width="768" data-file-height="464" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_katakana.svg" class="internal" title="拡大"></a></div>
+カタカナ表</div>
+</div>
+</div>
+<p>大部分の日本語文は漢字とひらがなで書かれ、一部にカタカナが混在して使用される。</p>
+<h3><span class="mw-headline" id=".E6.BC.A2.E5.AD.97.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B">漢字が使われる事例</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=3" title="節を編集: 漢字が使われる事例">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>」、「<a href="/wiki/%E5%92%8C%E8%A3%BD%E6%BC%A2%E5%AD%97" title="和製漢字">和製漢字</a>」、および「<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97" title="日本における漢字">日本における漢字</a>」を参照</div>
+<ul>
+<li><a href="/wiki/%E5%90%8D%E8%A9%9E" title="名詞">名詞</a></li>
+<li><a href="/wiki/%E5%BD%A2%E5%AE%B9%E8%A9%9E" title="形容詞">形容詞</a>と<a href="/wiki/%E5%8B%95%E8%A9%9E" title="動詞">動詞</a>の語幹</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>の<a href="/wiki/%E4%BA%BA%E5%90%8D" title="人名">人名</a></li>
+</ul>
+<p>等である。</p>
+<h3><span class="mw-headline" id=".E3.81.B2.E3.82.89.E3.81.8C.E3.81.AA.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B">ひらがなが使われる事例</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=4" title="節を編集: ひらがなが使われる事例">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">平仮名</a>」を参照</div>
+<ul>
+<li><a href="/wiki/%E5%BD%A2%E5%AE%B9%E8%A9%9E" title="形容詞">形容詞</a>と<a href="/wiki/%E5%8B%95%E8%A9%9E" title="動詞">動詞</a>の<a href="/wiki/%E6%B4%BB%E7%94%A8" title="活用">活用</a>語尾（送り仮名）</li>
+<li><a href="/wiki/%E5%8A%A9%E8%A9%9E" title="助詞">助詞</a></li>
+<li>漢字を持たない、あるいは漢字では読みづらい日本語の単語</li>
+<li>漢字の読み方の指示（振り仮名）</li>
+</ul>
+<p>等である。</p>
+<h3><span class="mw-headline" id=".E3.82.AB.E3.82.BF.E3.82.AB.E3.83.8A.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B">カタカナが使われる事例</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=5" title="節を編集: カタカナが使われる事例">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">片仮名</a>」を参照</div>
+<ul>
+<li>外国の単語、名前</li>
+<li><a href="/wiki/%E6%93%AC%E9%9F%B3%E8%AA%9E" title="擬音語" class="mw-redirect">擬音語</a></li>
+<li>強調。英語ではイタリック体で書くような場面</li>
+<li>技術、科学用語（生物の名前。「ヒト」、「ネコ」等）</li>
+</ul>
+<p>等である。生物名のカタカナ表記の起源については<a href="/wiki/%E5%92%8C%E5%90%8D" title="和名">和名</a>を参照。</p>
+<h3><span class="mw-headline" id=".E3.83.AD.E3.83.BC.E3.83.9E.E5.AD.97.E3.81.8C.E4.BD.BF.E3.82.8F.E3.82.8C.E3.82.8B.E4.BA.8B.E4.BE.8B">ローマ字が使われる事例</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=6" title="節を編集: ローマ字が使われる事例">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="ローマ字">ローマ字</a>」、「<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88" title="アルファベット">アルファベット</a>」、および「<a href="/wiki/%E5%A4%96%E6%9D%A5%E8%AA%9E" title="外来語">外来語</a>」を参照</div>
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%8B%E3%83%A0" title="アクロニム" class="mw-redirect">アクロニム</a>、<a href="/wiki/%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB" title="イニシャル">イニシャル</a>。例えばNATO（「<a href="/wiki/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%9D%A1%E7%B4%84%E6%A9%9F%E6%A7%8B" title="北大西洋条約機構">北大西洋条約機構</a> North Atlantic Treaty Organisation」のアクロニム）など。</li>
+<li>日本国外で通用するように意図した場合。例えば名刺やパスポートの名前など。</li>
+<li>会社名、ブランド名、製品名等。日本国内外問わず用いられる。</li>
+<li>日本語の文脈中にいきなり外国の単語やフレーズを挿入する場合。日本人向け民生品の宣伝など。</li>
+</ul>
+<p>等である。ローマ字で日本語の単語を表記する例はない。あるように見えるのは<a href="/wiki/%E8%BB%A2%E5%86%99" title="転写" class="mw-disambig">転写</a>にすぎない。</p>
+<h3><span class="mw-headline" id=".E4.BE.8B.E5.A4.96">例外</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=7" title="節を編集: 例外">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>上記の規則には多くの例外がある。例えば<a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA" title="日本人">日本人</a>の名前には漢字、ひらがな、カタカナの全てが用いられることがある。姓についても、<a href="/wiki/%E5%A4%A7%E5%92%8C%E6%B0%91%E6%97%8F" title="大和民族">大和民族</a>の姓は漢字がほとんどであるが、「一ノ瀬」などのように一部カタカナが含まれる姓もある。<a href="/wiki/%E5%B8%B0%E5%8C%96" title="帰化">帰化</a>した外国人などは、姓の全てがカタカナ表記ということもある。</p>
+<p>加えて、横書きの文書では<a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6%95%B0%E5%AD%97" title="アラビア数字">アラビア数字</a>が普通は用いられる。ラテン文字はアクロニムや国際単位系の単位等に用いられる。</p>
+<h3><span class="mw-headline" id=".E6.96.87.E5.AD.97.E7.A8.AE.E3.81.AE.E6.84.8F.E5.9B.B3.E7.9A.84.E3.81.AA.E9.81.B8.E6.8A.9E">文字種の意図的な選択</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=8" title="節を編集: 文字種の意図的な選択">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ひらがな、カタカナのいずれでも、全ての日本語の単語を表記することができる。ローマ字でも"書く"ことは客観的に可能であるが、あくまでも音写でしかない。また、ほとんどの単語には漢字表記がある。どの文字種を用いるかは多くの要因によって決まる。</p>
+<p>漢字表記によって異なる意味を表す場合もある（「熱い」「厚い」、「好み」「木の実」等）。場合によっては漢字の書き分けが難しく、「誤記するよりまし」という事でひらがなで表記する人もいる。</p>
+<h2><span class="mw-headline" id=".E8.A1.A8.E8.A8.98.E3.81.99.E3.82.8B.E6.96.B9.E5.90.91">表記する方向</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=9" title="節を編集: 表記する方向">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6%A8%AA%E6%9B%B8%E3%81%8D" title="縦書きと横書き">縦書きと横書き</a>」を参照</div>
+<p>伝統的には日本語は「縦書き」で書かれた。文書は縦行に分かれ、各縦行は上から下に、縦行の間では右から左に書かれる。ある縦行の最下部まで読み進んだら、次は左隣の縦行の最上部に移動することになる。これは<a href="/wiki/%E4%B8%AD%E5%9B%BD" title="中国">中国</a>の文と同じ順序である。</p>
+<p>現代の日本語は他の方法も採用している。「横書き」といわれるもので、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>などのヨーロッパ諸語と同一の方法である。左から右に書かれた横向きの行が上から下に並んでいる。</p>
+<h2><span class="mw-headline" id=".E5.88.9D.E6.9C.9F.E3.81.AE.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E7.B3.BB">初期の日本語表記系</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=10" title="節を編集: 初期の日本語表記系">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihonshoki_tanaka_version.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nihonshoki_tanaka_version.jpg/220px-Nihonshoki_tanaka_version.jpg" width="220" height="94" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nihonshoki_tanaka_version.jpg/330px-Nihonshoki_tanaka_version.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nihonshoki_tanaka_version.jpg/440px-Nihonshoki_tanaka_version.jpg 2x" data-file-width="1472" data-file-height="632" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihonshoki_tanaka_version.jpg" class="internal" title="拡大"></a></div>
+『<a href="/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80" title="日本書紀">日本書紀</a>』　<a href="/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3" title="平安時代">平安時代</a>の写本。その構文や表記のありかたは、中国の古典文である「漢文」に則っている。</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hell_Scroll_Nara_Measures.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hell_Scroll_Nara_Measures.jpg/220px-Hell_Scroll_Nara_Measures.jpg" width="220" height="99" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hell_Scroll_Nara_Measures.jpg/330px-Hell_Scroll_Nara_Measures.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hell_Scroll_Nara_Measures.jpg/440px-Hell_Scroll_Nara_Measures.jpg 2x" data-file-width="4671" data-file-height="2111" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hell_Scroll_Nara_Measures.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E5%9C%B0%E7%8D%84%E8%8D%89%E7%B4%99" title="地獄草紙">地獄草紙</a>　<a href="/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3" title="平安時代">平安時代</a>末に成立したと見られる<a href="/wiki/%E7%B5%B5%E5%B7%BB%E7%89%A9" title="絵巻物">絵巻物</a>。現代と余り変わらない字体の、漢字と仮名で書かれている。</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:KarakuriZuiHosokawaHanzo1796.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/KarakuriZuiHosokawaHanzo1796.jpg/220px-KarakuriZuiHosokawaHanzo1796.jpg" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/KarakuriZuiHosokawaHanzo1796.jpg/330px-KarakuriZuiHosokawaHanzo1796.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/KarakuriZuiHosokawaHanzo1796.jpg/440px-KarakuriZuiHosokawaHanzo1796.jpg 2x" data-file-width="2906" data-file-height="2363" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:KarakuriZuiHosokawaHanzo1796.jpg" class="internal" title="拡大"></a></div>
+『機巧図彙』　<a href="/wiki/%E5%AF%9B%E6%94%BF" title="寛政">寛政</a>9年（<a href="/wiki/1796%E5%B9%B4" title="1796年">1796年</a>）に刊行された<a href="/wiki/%E5%92%8C%E6%99%82%E8%A8%88" title="和時計">和時計</a>や<a href="/wiki/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A" title="からくり">からくり</a>についての図入り解説書。その文章は行書体の漢字にかなを交じえて記されている。</div>
+</div>
+</div>
+<p>現在の日本語表記の源流は、<a href="/wiki/%E4%B8%AD%E5%9B%BD" title="中国">中国</a>の古典文語である<a href="/wiki/%E6%BC%A2%E6%96%87" title="漢文">漢文</a>の書き方が伝えられた<a href="/wiki/4%E4%B8%96%E7%B4%80" title="4世紀">4世紀</a>あたりにまで遡る。ただし漢字が伝わる以前に、<a href="/wiki/%E7%A5%9E%E4%BB%A3%E6%96%87%E5%AD%97" title="神代文字">神代文字</a>と称する更に古い表記法があったともいわれている。それらは絵文字の様だったり、<a href="/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E6%96%87%E5%AD%97" title="ルーン文字">ルーン文字</a>に似ていたり、<a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB" title="ハングル">ハングル</a>に酷似していたりする。これらの内で真正なものと結論づけられたものは一つもなく、漢字の伝来以前に日本に文字があった証拠は存在しない。たとえそのようなものがあったとしても、書記のための文字として体系づけられる前に、漢字の導入により霧散したものと見られる。</p>
+<p>中国から伝わった漢字を前にして、日本人はとりあえず、個々の漢字の意味を日本語に当てはめた。たとえば「山」、「川」、「村」、「人」、「森」、「酒」などを意味する日本語として「やま」、「かは」、「むら」、「ひと」、「もり」、「さけ」という言葉を当てはめていった。<a href="/wiki/%E5%92%8C%E8%AA%9E" title="和語" class="mw-redirect">和語</a>に相当する意味を持つ漢字がない場合には、独自に漢字を創造している。峠（とうげ）、辻（つじ）、柊（ひいらぎ）、鰯（いわし）などで、これを<a href="/wiki/%E5%9B%BD%E5%AD%97" title="国字">国字</a>という。その国独自の漢字は、中国文化の影響を受けた<a href="/wiki/%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6" title="朝鮮半島">朝鮮半島</a>や<a href="/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0" title="ベトナム">ベトナム</a>でも作られた。<a href="/wiki/%E6%96%87%E5%8C%96_(%E5%85%83%E5%8F%B7)" title="文化 (元号)">文化</a>15年（<a href="/wiki/1818%E5%B9%B4" title="1818年">1818年</a>）以前に成立していた『国字考』（伴直方著）には、日本で作られた国字125字が収録されている。</p>
+<h3><span class="mw-headline" id=".E5.80.9F.E5.AD.97.E3.81.A8.E6.BC.A2.E5.AD.97.E6.96.87">借字と漢字文</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=11" title="節を編集: 借字と漢字文">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>しかし日本語の<a href="/wiki/%E5%9B%BA%E6%9C%89%E5%90%8D%E8%A9%9E" title="固有名詞">固有名詞</a>を発音通りに書き記す場合には、漢字をそのまま使っても書き表すことが出来ない。そのために使われたのが<a href="/wiki/%E5%80%9F%E5%AD%97" title="借字" class="mw-disambig">借字</a>（しゃくじ）である。これは漢字を表意文字ではなく表音文字として（中国音から音を得て）用いる。この借字は4500首あまりの<a href="/wiki/%E5%92%8C%E6%AD%8C" title="和歌">和歌</a>を収めた『<a href="/wiki/%E4%B8%87%E8%91%89%E9%9B%86" title="万葉集">万葉集</a>』にも使われる表記なので「万葉仮名」とも呼ばれるが、べつに『万葉集』に限った表記法というわけではない。この借字の字体を<a href="/wiki/%E8%8D%89%E6%9B%B8" title="草書" class="mw-redirect">草書</a>よりも崩したものから平仮名が、また漢籍や経典の読み下しを助けるために横に付した符号のうち、発音記号として使った借字から片仮名が誕生した。</p>
+<p>やがて文章の構文も中国語に沿った「漢文」のものではなく、日本語の構文に沿って語を並べた文章が綴られるようになった。『<a href="/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98" title="古事記">古事記</a>』の本文は漢字だけで記されているが「漢文」ではない「漢字文」である。借字による和語の文を交え、日本語の語順に従って記されている部分があるからである。またその本文冒頭には、</p>
+<blockquote class="toccolours" style="float:none; padding: 10px 15px 10px 15px; display:table;">
+<div>
+<p>天地初発之時…</p>
+</div>
+</blockquote>
+<p>とあり、「あめつちはじめてひらけしとき…」とふつうには訓読されている部分であるが、「初」は「はじめて」でも「はじめに」でもどちらにも読める。実際にどう発音して読んだかというより、要はその文字を追っていけば内容を理解できるという文である。</p>
+<h3><span class="mw-headline" id=".E6.BC.A2.E5.AD.97.E3.81.8B.E3.81.AA.E4.BA.A4.E3.81.98.E3.82.8A.E6.96.87.E3.81.AE.E6.88.90.E7.AB.8B">漢字かな交じり文の成立</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=12" title="節を編集: 漢字かな交じり文の成立">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>文章を綴るための文字としての仮名（平仮名）の出現は、都が<a href="/wiki/%E5%B9%B3%E5%9F%8E%E4%BA%AC" title="平城京">平城京</a>から<a href="/wiki/%E5%B9%B3%E5%AE%89%E4%BA%AC" title="平安京">平安京</a>に移って以後、すなわち<a href="/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3" title="平安時代">平安時代</a>に入ってからのことである。漢字に仮名を交えて書く「漢字かな交じり文」は、その当時すでに始まっている。当時の仮名の文も和語だけで記されていたわけではなく<a href="/wiki/%E6%BC%A2%E8%AA%9E" title="漢語">漢語</a>も交えており、それはたいていの場合漢字で記すよう慣習づけられていたからである。また和語であっても文章を読み取りやすくするため、今のように漢字を当てて記すこともされていた。ただし和歌は漢語を使わずに詠み、また仮名だけで書くよう慣習づけられていた。その後、訓読文の影響も受けながら「漢字かな交じり文」は発達してゆく。</p>
+<p>『<a href="/wiki/%E4%BC%8A%E5%8B%A2%E7%89%A9%E8%AA%9E" title="伊勢物語">伊勢物語</a>』、『<a href="/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E" title="源氏物語">源氏物語</a>』、『<a href="/wiki/%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E" title="今昔物語" class="mw-redirect">今昔物語</a>』、『<a href="/wiki/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E" title="平家物語">平家物語</a>』、『<a href="/wiki/%E6%96%B9%E4%B8%88%E8%A8%98" title="方丈記">方丈記</a>』、『<a href="/wiki/%E5%BE%92%E7%84%B6%E8%8D%89" title="徒然草">徒然草</a>』、『<a href="/wiki/%E5%A5%A5%E3%81%AE%E7%B4%B0%E9%81%93" title="奥の細道" class="mw-redirect">奥の細道</a>』、『<a href="/wiki/%E9%9B%A8%E6%9C%88%E7%89%A9%E8%AA%9E" title="雨月物語">雨月物語</a>』など、日本古典文学の重要な作品は全て「漢字かな交じり文」で書かれており、現在まで1100年以上に渡って日本語の標準的な書き言葉となっている。</p>
+<h3><span class="mw-headline" id=".E9.9F.B3.E8.AA.AD.E3.81.BF.E3.81.A8.E8.A8.93.E8.AA.AD.E3.81.BF">音読みと訓読み</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=13" title="節を編集: 音読みと訓読み">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>一つの漢字には、複数の「音読み」（<a href="/wiki/%E6%BC%A2%E5%AD%97%E9%9F%B3" title="漢字音" class="mw-redirect">漢字音</a>）と「訓読み」（<a href="/wiki/%E5%92%8C%E8%A8%93" title="和訓" class="mw-redirect">和訓</a>）があることが多い。まず音読みについては、日本に様々な時代の、様々な地域の中国語の発音が並行して伝えられたことにより、一つの漢字に複数の音読みが行われることになった。<a href="/wiki/%E5%91%89%E9%9F%B3" title="呉音">呉音</a>、<a href="/wiki/%E6%BC%A2%E9%9F%B3" title="漢音">漢音</a>、<a href="/wiki/%E5%94%90%E9%9F%B3" title="唐音">唐音</a>といったものである。こうした現象は、特定の時代の特定の地域では通常一つの発音しか認めてこなかった中国や<a href="/wiki/%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6" title="朝鮮半島">朝鮮半島</a>など、他の漢字を受容した地域では、ほとんど観察されない。例えば「行」は二字熟語の「行列」では「ぎょう」であり、「銀行」では「こう」、「行灯」では「あん」である。一つの漢字「行」に「ぎょう」、「こう」、「あん」の三通りの音読みがあるのはそれぞれ「呉音」「漢音」「唐音」に対応している。</p>
+<p>訓読みでは「山」や「人」のように、「やま」「ひと」というほぼ一種類の訓読みが伝わっているものもあるが、「行」は「ゆく」（または「いく」）ともまた「おこなう」とも読み、「主」という漢字では「おも」、「ぬし」、「あるじ」といった複数の訓読みが当てられているといった例があげられる。一つの漢字の持つ意味の広がりが複数の和語の概念にまたがっていることにより、複数の読みかたが生じた。逆に「取る」・「採る」・「捕る」などのように、一つの和語に複数の漢字が割り当てられる場合もある。</p>
+<h3><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E.E3.81.A8.E3.81.97.E3.81.A6.E3.81.AE.E6.BC.A2.E8.AA.9E">日本語としての漢語</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=14" title="節を編集: 日本語としての漢語">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>日本語には語源を異にした多くの<a href="/wiki/%E5%90%8C%E7%BE%A9%E8%AA%9E" title="同義語" class="mw-redirect">同義語</a>がある。中国起源のものと日本起源のものとである。また、中国起源の単語はより厳密さが求められる説明的な文脈で用いられる傾向があり、これはヨーロッパ言語を用いる国や地域の人々が<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E" title="ラテン語">ラテン語</a>由来の単語をしばしば上流の証として用いるのと似ている。 近代では日本人が漢語を造語する例もあり、英語のphilosophy、ドイツ語のPhilosophieを指す用語として、明治時代の啓蒙家<a href="/wiki/%E8%A5%BF%E5%91%A8_(%E5%95%93%E8%92%99%E5%AE%B6)" title="西周 (啓蒙家)">西周</a>が、「<a href="/wiki/%E5%93%B2%E5%AD%A6" title="哲学">哲学</a>」と造語している。これらは<a href="/wiki/%E5%92%8C%E8%A3%BD%E6%BC%A2%E8%AA%9E" title="和製漢語">和製漢語</a>と呼ばれるもので、現在では漢語の本家である中国語圏に逆輸入されている例も多い。</p>
+<h3><span class="mw-headline" id=".E6.BC.A2.E5.AD.97.E3.81.8B.E3.81.AA.E4.BA.A4.E3.81.98.E3.82.8A.E6.96.87.E3.81.AE.E6.84.8F.E7.BE.A9">漢字かな交じり文の意義</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=15" title="節を編集: 漢字かな交じり文の意義">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>古い時代の日本に中国大陸より漢字と漢文が伝わり、その漢文を日本語として理解するために<a href="/wiki/%E6%BC%A2%E6%96%87%E8%A8%93%E8%AA%AD" title="漢文訓読">漢文訓読</a>という方法が講じられた。現在の漢字かな交じり文はこの漢文訓読が源流のひとつになっている。その漢字かな交じり文に必要な仮名が世に現れる以前には、文の表記についていろいろな試みや工夫があった。</p>
+<p>『万葉集』はその原文を見ればわかるように、本来全て漢字で記されており、基本としては詞書が「漢文」であり肝心の和歌は借字を用いた表記になっているが、その和歌のなかには今でいう「訓読み」を交えたものがある。その本文は見た目には漢字の羅列である。使われている漢字が借字なのか、または「訓読み」として読めばいいのかを区別するための手がかりは、<a href="/wiki/%E9%9F%BB%E6%96%87" title="韻文">韻文</a>である和歌の五音や七音の音数律に拠ることになる。</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:82px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Manyousyu_NukataOhkimi1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ja/thumb/9/94/Manyousyu_NukataOhkimi1.jpg/80px-Manyousyu_NukataOhkimi1.jpg" width="80" height="391" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ja/thumb/9/94/Manyousyu_NukataOhkimi1.jpg/120px-Manyousyu_NukataOhkimi1.jpg 1.5x, //upload.wikimedia.org/wikipedia/ja/thumb/9/94/Manyousyu_NukataOhkimi1.jpg/160px-Manyousyu_NukataOhkimi1.jpg 2x" data-file-width="180" data-file-height="879" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Manyousyu_NukataOhkimi1.jpg" class="internal" title="拡大"></a></div>
+『万葉集』巻第一（元暦校本）より。</div>
+</div>
+</div>
+<blockquote class="toccolours" style="float:none; padding: 10px 15px 10px 15px; display:table;">
+<div>
+<p>熟田津尓舩乗世武登月待者潮毛可奈比沼今者許藝乞菜</p>
+</div>
+</blockquote>
+<p>これは『万葉集』で「にきたつに　ふなのりせむと　つきまてば　しほもかなひぬ　いまはこぎいでな」と現在訓読されている和歌の原文である。この文では「熟田津」「舩（船）乗」「月待」「潮」「今」が訓読みで、それ以外が借字で記されているが、もしこの24字の漢字の羅列が和歌であることを前もって知らなければ、何が書いてあるのかわからないし、当然訓読みと借字の区別もつかない。和歌なら五七五七七と句が分かれているので、それに当てはめてみて何とか内容を読むことができる。しかし<a href="/wiki/%E6%95%A3%E6%96%87" title="散文">散文</a>では五音や七音に語句を当てはめることは出来ないので、こころみに散文で借字に「訓読み」を交えた文を書いたとしても、はじめてそれを読まされる側にとっては、内容を読んで理解することは不可能に近い。そうした困難を避けるために作られたのが「宣命書き」である。これは漢字の語句の間に、助詞や送り仮名などを小さい借字で書き添えるという形式である。また『古事記』には文中に、「この文字は借字として読め」という意味の<a href="/wiki/%E5%89%B2%E6%B3%A8" title="割注" class="mw-redirect">割注</a>を付けて読ませる方法が見られる。</p>
+<p>仮名（平仮名・片仮名）の登場は、そのような状況を一変させた。仮名は借字である漢字から作られたものであるが、もともとの漢字の字形を<a href="/wiki/%E8%8D%89%E6%9B%B8" title="草書" class="mw-redirect">草書</a>よりももっと崩したりまたは略したりすることによって、そこに漢字を加えても仮名と区別が出来るようになった。平安時代以降、仮名で記された文学作品が多く作られるようになるが、上でも述べたようにそれらはすべてを仮名で記していたわけではなく、ある程度漢語や漢字を交えて書くようになっていた。それができたのも漢字と仮名が見た目の上で区別できたからであり、これは漢字片仮名交じりの文の場合でも同様である。そして時代が下ると『平家物語』などのように、漢語を多用する漢文訓読ふうの文も綴られるようになった。</p>
+<p>仮名の登場によって日本語の繊細な表現を記すことができるようになったといわれるが、漢字と仮名の区別が漢字かな交じり文の成立を可能にさせ、その漢字かな交じり文の発達が、<a href="/wiki/%E6%98%8E%E6%B2%BB" title="明治">明治</a>以降の和製漢語を生む土壌を作った。漢字かな交じり文は現在でも日本語の表記体系のなかで重要な地位を占めている。</p>
+<h2><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E6.B3.95.E3.81.AE.E5.A4.89.E5.8C.96">日本語表記法の変化</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=16" title="節を編集: 日本語表記法の変化">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id=".E6.98.8E.E6.B2.BB.E6.99.82.E4.BB.A3">明治時代</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=17" title="節を編集: 明治時代">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Meiji_Kenpo02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meiji_Kenpo02.jpg/200px-Meiji_Kenpo02.jpg" width="200" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meiji_Kenpo02.jpg/300px-Meiji_Kenpo02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meiji_Kenpo02.jpg/400px-Meiji_Kenpo02.jpg 2x" data-file-width="1858" data-file-height="1510" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Meiji_Kenpo02.jpg" class="internal" title="拡大"></a></div>
+大日本帝国憲法「上諭」2頁目</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hanwa_Tennoji_station_1938.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hanwa_Tennoji_station_1938.jpg/200px-Hanwa_Tennoji_station_1938.jpg" width="200" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hanwa_Tennoji_station_1938.jpg/300px-Hanwa_Tennoji_station_1938.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hanwa_Tennoji_station_1938.jpg/400px-Hanwa_Tennoji_station_1938.jpg 2x" data-file-width="2532" data-file-height="1766" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hanwa_Tennoji_station_1938.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/1938%E5%B9%B4" title="1938年">1938年</a>10月頃の<a href="/wiki/%E5%A4%A9%E7%8E%8B%E5%AF%BA%E9%A7%85" title="天王寺駅">天王寺駅</a>。左横書きが多いが一部に右横書きも残っている。</div>
+</div>
+</div>
+<p>明治の大変革はしばらくの間、日本語の表記には影響を与えなかった。しかし教育制度の変化に伴い、大量の新語が現れ、また文字を読み書きできる国民が増加してくると言語そのものに変化が現れた。大量の新語は他の言語から持ち込まれたものもあれば、新しく作られたものもあった。<a href="/wiki/%E8%A8%80%E6%96%87%E4%B8%80%E8%87%B4" title="言文一致">言文一致</a>運動が完勝を収め、歴史的ないし古典的な文体（<a href="/wiki/%E6%96%87%E8%AA%9E%E4%BD%93_(%E6%97%A5%E6%9C%AC%E8%AA%9E)" title="文語体 (日本語)" class="mw-redirect">文語体</a>）にとってかわって<a href="/wiki/%E5%8F%A3%E8%AA%9E%E4%BD%93" title="口語体" class="mw-redirect">口語体</a>が広く用いられるようになった。日本語の書きづらさについて議論があり、1800年代の終わりには表記に用いる漢字の数を制限しようという意見が見られるようになった。外国語との接触によって、<a href="/wiki/%E6%BC%A2%E5%AD%97%E5%BB%83%E6%AD%A2%E8%AB%96" title="漢字廃止論">漢字を廃止</a>してカナまたはローマ字のみを用いるようにしようという主張もあったが、これは支持されなかった。西洋語風の<a href="/wiki/%E5%8F%A5%E8%AA%AD%E7%82%B9" title="句読点">句読点</a>が用いられるようになったのもこの頃である（Twine, 1991）。</p>
+<p><a href="/wiki/1900%E5%B9%B4" title="1900年">1900年</a>に、<a href="/wiki/%E6%96%87%E9%83%A8%E7%9C%81" title="文部省">文部省</a>は日本語表記教育の改善を狙って3つの改革を行った:</p>
+<ul>
+<li>ひらがなの字体を標準化し、それ以外を<a href="/wiki/%E5%A4%89%E4%BD%93%E4%BB%AE%E5%90%8D" title="変体仮名">変体仮名</a>として排除しようとした。</li>
+<li>漢字の字母数制限。初等教育では1200字に絞った。</li>
+<li>実際の発音に合わなくなっていた漢語のかな表現（字音かな遣い）の改革</li>
+</ul>
+<p>最初の2つは次第に広く受け入れられたが、最後の項目は保守層を中心に激しい反発を呼び、<a href="/wiki/1908%E5%B9%B4" title="1908年">1908年</a>に取り下げられることとなった（Seeley, 1991）。</p>
+<h3><span class="mw-headline" id=".E7.AC.AC.E4.BA.8C.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.A6.E5.89.8D">第二次世界大戦前</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=18" title="節を編集: 第二次世界大戦前">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/1900%E5%B9%B4" title="1900年">1900年</a>の改革が部分的に失敗したことと<a href="/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0" title="ナショナリズム">ナショナリズム</a>の勃興とが合わさり、日本語表記法の改良は進まなかった。漢字の制限については多くの要求があり、いくつかの新聞は自主的に漢字を減らして送り仮名を増やしたが、公的な支持はなく反対も多かった。</p>
+<h3><span class="mw-headline" id=".E7.AC.AC.E4.BA.8C.E6.AC.A1.E4.B8.96.E7.95.8C.E5.A4.A7.E6.88.A6.E5.BE.8C">第二次世界大戦後</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=19" title="節を編集: 第二次世界大戦後">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihon_Kenpo01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nihon_Kenpo01.jpg/200px-Nihon_Kenpo01.jpg" width="200" height="313" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nihon_Kenpo01.jpg/300px-Nihon_Kenpo01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/03/Nihon_Kenpo01.jpg 2x" data-file-width="320" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihon_Kenpo01.jpg" class="internal" title="拡大"></a></div>
+日本国憲法原本「上諭」（1ページ目）</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Street_stall_Cheese_Yatai_in_Japan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Street_stall_Cheese_Yatai_in_Japan.jpg/200px-Street_stall_Cheese_Yatai_in_Japan.jpg" width="200" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Street_stall_Cheese_Yatai_in_Japan.jpg/300px-Street_stall_Cheese_Yatai_in_Japan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Street_stall_Cheese_Yatai_in_Japan.jpg/400px-Street_stall_Cheese_Yatai_in_Japan.jpg 2x" data-file-width="612" data-file-height="612" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Street_stall_Cheese_Yatai_in_Japan.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E5%B1%8B%E5%8F%B0" title="屋台">屋台</a>の右側面 ズーチ（<a href="/wiki/%E3%83%81%E3%83%BC%E3%82%BA" title="チーズ">チーズ</a>）</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nagashi-soba_in_Yamagata_Japan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nagashi-soba_in_Yamagata_Japan.jpg/200px-Nagashi-soba_in_Yamagata_Japan.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nagashi-soba_in_Yamagata_Japan.jpg/300px-Nagashi-soba_in_Yamagata_Japan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nagashi-soba_in_Yamagata_Japan.jpg/400px-Nagashi-soba_in_Yamagata_Japan.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nagashi-soba_in_Yamagata_Japan.jpg" class="internal" title="拡大"></a></div>
+<a href="/wiki/%E6%9A%96%E7%B0%BE" title="暖簾">暖簾</a></div>
+</div>
+</div>
+<p>終戦直後、大きな改革が行われた。一部には<a href="/wiki/%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E6%9C%80%E9%AB%98%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%B7%8F%E5%8F%B8%E4%BB%A4%E9%83%A8" title="連合国軍最高司令官総司令部">GHQ</a>の影響もあったが、重要な部分のほとんどは保守主義者が教育制度の管理機構から排除されたことに起因しており、以前は着手されなかった改革を進めることができた<sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="GHQの影響より、保守主義者が排除されたことの影響の方が大きいとする具体的根拠が不明。（2012年2月）">要出典</span></a></i>]</sup>。</p>
+<p>大きな点は:</p>
+<ul>
+<li><a href="/wiki/%E7%8F%BE%E4%BB%A3%E4%BB%AE%E5%90%8D%E9%81%A3%E3%81%84" title="現代仮名遣い">現代仮名遣い</a>の全面的採用 （1946年）</li>
+<li><a href="/wiki/%E5%BD%93%E7%94%A8%E6%BC%A2%E5%AD%97" title="当用漢字">当用漢字</a>（1850字）の発布 （1946年）</li>
+<li><a href="/wiki/%E6%95%99%E8%82%B2%E6%BC%A2%E5%AD%97" title="教育漢字">教育漢字</a>の統一書体発布 （1949年）</li>
+<li><a href="/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2%E5%AD%97" title="人名用漢字">人名用漢字</a>の発布 （1951年）</li>
+</ul>
+<p>ある時期、GHQ内の一部の方針としてローマ字表記への変更が要請されたことがあるが、他の専門家の反対によって沙汰止みとなった（Unger, 1996）。日本の文化人の中にも、ローマ字表記を主張し試行する者がいたが、全かな表記と同様、漢字を表記しないと意味識別が困難であり、実用化されなかった。<a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD" title="大韓民国">韓国</a>と<a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="朝鮮民主主義人民共和国">北朝鮮</a>で漢字混在表記を廃止してハングル（<a href="/wiki/%E3%83%81%E3%83%A7%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%AB" title="チョソングル" class="mw-redirect">チョソングル</a>）一元表記に実際に変更した結果として漢字文化の伝統が若い世代に伝わらず、問題となっていることと対照的であるとも言える（参考：<a href="/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB" title="ハングル">ハングル</a>および<a href="/wiki/%E9%9F%93%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97#.E5.85.AD.E5.8D.81.E5.B9.B4.E6.96.87.E5.AD.97.E6.88.A6.E4.BA.89" title="韓国における漢字" class="mw-redirect">六十年文字戦争</a>）。<a href="/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0" title="ベトナム">ベトナム</a>も独立後に漢字を全廃し、<a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88" title="アルファベット">アルファベット</a>を使った<a href="/wiki/%E3%82%AF%E3%82%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%BC" title="クオック・グー">クオック・グー</a>に変更したため、韓国・北朝鮮と同様に漢字文化の伝統が若い世代に伝わらなくなっている。</p>
+<p>加えて、横書き時の右横書き（右から左へ）は殆ど姿を消し、左横書きに事実上一本化された。戦前から左横書きはある程度普及しており、終戦によって一度に置き換わったわけではなく、その速度が加速したとも言える。「<b><a href="/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6%A8%AA%E6%9B%B8%E3%81%8D" title="縦書きと横書き">縦書きと横書き</a></b>」の項も参照。</p>
+<p>とはいえ、世界の書字体系では例えば<a href="/wiki/%E5%8F%A4%E4%BB%A3%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88" title="古代エジプト">古代エジプト</a>の<a href="/wiki/%E3%83%92%E3%82%A8%E3%83%AD%E3%82%B0%E3%83%AA%E3%83%95" title="ヒエログリフ">ヒエログリフ</a>の書字システムなどのように、横書きで、左から右と、右から左が、両方とも可能なものがある。日本語での右書きも、縦書きの変種ではなく、純粋に横書きと考えられるものもある。実際、このような表記法は現在でも商用車や船舶の右側面に見られ、乗り物の前方から後方に向かって配置されるようになっている（トラックの左側面に「ヰキ商会」、右側面に「会商キヰ」と書くなど）。</p>
+<p>ヒエログリフの場合、右書きか左書きかは、人や動物など、「顔の向き」のある文字で、顔の向いている方向でどちらの方向に読むかが決まっていたように、乗り物の側面のように、「進行方向から後ろ」へという読み方の方向性が自然に決まる場合は、右書き・左書きと両方用いられる。</p>
+<p><a href="/wiki/1963%E5%B9%B4" title="1963年">1963年</a>に国語審議会で、<a href="/wiki/%E5%90%89%E7%94%B0%E5%AF%8C%E4%B8%89" title="吉田富三">吉田富三</a>が「国語は漢字かな交じり文をもって表記の正則とする。国語審議会はこの前提の下に、国語の改善を審議するものとする」という提案を行い、<a href="/wiki/1965%E5%B9%B4" title="1965年">1965年</a>には認められた。この吉田提案は「現状の姿が最も正しい形であり、漢字が多すぎる等というのは誤りである」と主張している。これが日本で漢字かな交じり文が公的に認められた最初である。それまでの制限的な色合いが大幅に緩和され、<a href="/wiki/1981%E5%B9%B4" title="1981年">1981年</a>、当用漢字を元にしつつも、緩やかな目安である常用漢字1945字が内閣から告示され、当用漢字は廃止された。</p>
+<p><a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a>には、<a href="/wiki/%E6%B3%95%E5%8B%99%E7%9C%81" title="法務省">法務省</a>の手で人名用漢字が大量に追加された。</p>
+<p>戦後の日本語表記に関して、ごく簡略に言えば「名詞・用言の語幹を<a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>で、用言の活用語尾・付属語を<a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">ひらがな</a>で表記する」という書き分けの原則が存在する<i>（詳細は上記<b>文字種の使い分け</b>の項参照）</i>。<a href="/wiki/%E3%82%8F%E3%81%8B%E3%81%A1%E6%9B%B8%E3%81%8D" title="わかち書き">わかち書き</a>を行わない日本語の表記では、この原則が語と語の切れ目を表示する機能を担っている。</p>
+<p>公文書などは<a href="/wiki/%E5%BD%93%E7%94%A8%E6%BC%A2%E5%AD%97" title="当用漢字">当用漢字</a>、<a href="/wiki/%E5%B8%B8%E7%94%A8%E6%BC%A2%E5%AD%97" title="常用漢字">常用漢字</a>のみをもって記述すべきとの方針が示され、新聞などもこれに倣ったため、<a href="/w/index.php?title=%E3%81%BE%E3%81%9C%E6%9B%B8%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="まぜ書き (存在しないページ)">まぜ書き</a>（例：拿捕→だ捕）や漢語の仮名表記（例：軋轢→あつれき）が頻繁に見られるようになった。<a href="/wiki/%E6%BC%A2%E5%AD%97%E5%88%B6%E9%99%90" title="漢字制限" class="mw-redirect">漢字制限</a>の理念に沿うものだが、上記のような事情があるため語と語の切れ目が見えにくくなり、かえって読みづらいとの批判がある。見苦しい、文化破壊である、といった批判も根強い。</p>
+<p>これらの流れについては「<b><a href="/wiki/%E5%9B%BD%E8%AA%9E%E5%9B%BD%E5%AD%97%E5%95%8F%E9%A1%8C" title="国語国字問題">国語国字問題</a></b>」の項も参照されたい。</p>
+<h2><span class="mw-headline" id=".E3.83.8B.E3.83.A5.E3.82.A2.E3.83.B3.E3.82.B9.E3.82.92.E4.BC.9D.E3.81.88.E3.82.8B.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A1.A8.E8.A8.98.E7.B3.BB">ニュアンスを伝える日本語表記系</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=20" title="節を編集: ニュアンスを伝える日本語表記系">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>他の言語では説明を追加したり単語自体を変更したりしなければならない情報でも、日本語の表記システムを用いれば同じ単語の表記を変えるだけで伝えることができる場合がある。例えば英語の「 I 」、ドイツ語の「 ich 」、ロシア語の「 Я 」に相当する「私」は男女兼用でフォーマルな文章にしばしば用いられる。ひらがなで書いた「わたし」は、口語的なニュアンスを帯びており優しい感じがするので、男女ともにインフォーマルな場や、親しみやすさを表現したい場合に使用される。例えば、女性が日記や友人への手紙で用いるなどは、その典型である。</p>
+<p>カタカナの「ワタシ」は通常はほとんど用いられず、あえて一人称を強調する時や、外国人が片言で話すニュアンスを出す場合に用いられることがある程度である。転写にすぎないローマ字の「watashi」は、出現することは滅多になく、<a href="/wiki/%E8%A8%80%E8%AA%9E%E5%AD%A6" title="言語学">言語学</a>や<a href="/wiki/%E6%9A%97%E5%8F%B7" title="暗号">暗号</a>などなにかの意図を含める場合にしか出現しない。ただし言語学の場合で問題になっているのは単語の意味ではなく単語それ自体である。暗号の場合は表記を隠す意図による。</p>
+<p>文体上の狙いで漢字の複合語を恣意的に読ませることもできる。例えば夏目漱石は短編『<a href="/wiki/%E5%8D%81%E4%BA%94%E5%A4%9C" title="十五夜" class="mw-redirect">十五夜</a>』の中で名詞の「接続」を動詞的に活用した「接続って」を「つながって」と読ませている。これは通常ならば「繋がって」「つながって」と書くものである。なお、このような複数の漢字を、それに意味的対応する日本語のかな読みする例は、「天皇」を「すめらみこと・すめろぎ」、「日本」を「やまと」と読ませるなど、古くから存在している。</p>
+<h2><span class="mw-headline" id=".E3.83.AD.E3.83.BC.E3.83.9E.E5.AD.97.E8.BB.A2.E5.86.99">ローマ字転写</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=21" title="節を編集: ローマ字転写">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="rellink" style="margin-bottom: 0.5em; padding-left: 2em; font-style: italic;">詳細は「<a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="ローマ字">ローマ字</a>」を参照</div>
+<p>日本語をローマ字で転写する方法にはいくつかある。英語利用者向けに開発された<a href="/wiki/%E3%83%98%E3%83%9C%E3%83%B3%E5%BC%8F" title="ヘボン式" class="mw-redirect">ヘボン式</a>は、実用的な<a href="/wiki/%E3%83%87%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89" title="デファクトスタンダード">標準</a>の表記法として、日本国内の外<a href="/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5%AD%97#.E4.BD.BF.E7.94.A8.E8.A8.80.E8.AA.9E" title="ラテン文字">ラテン文字圏</a>で用いられている。<a href="/wiki/%E8%A8%93%E4%BB%A4%E5%BC%8F" title="訓令式" class="mw-redirect">訓令式</a>はカナとの対応が良く日本語話者には学びやすい。文部省がこれを公式に支持しているが、日本国外で用いられることは稀である。国際規格として<a href="/wiki/ISO_3602" title="ISO 3602">ISO 3602</a>があり、他にも<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="日本式ローマ字">日本式</a>、<a href="/wiki/JSL" title="JSL" class="mw-disambig">JSL</a>、<a href="/w/index.php?title=%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="ワープロ式 (存在しないページ)">ワープロ式</a>がある。</p>
+<p><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97%E8%A1%A8%E8%A8%98" title="日本語のキリル文字表記">キリル文字</a>、<a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6%96%87%E5%AD%97%E5%8C%96#.E6.97.A5.E6.9C.AC.E8.AA.9E.E3.81.AE.E3.82.A2.E3.83.A9.E3.83.93.E3.82.A2.E6.96.87.E5.AD.97.E8.A1.A8.E8.A8.98.E6.B3.95" title="アラビア文字化">アラビア文字</a>、<a href="/wiki/%E3%83%87%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%8A%E3%83%BC%E3%82%AC%E3%83%AA%E3%83%BC" title="デーヴァナーガリー">デーヴァナーガリー</a>による転写もある。</p>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE">参考文献</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=22" title="節を編集: 参考文献">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>伴直方　『国字考』〈『国語学大系』第八巻〉　厚生閣、1940年</li>
+<li>Christopher Seeley　『The Japanese Script since 1900』　Visible Language, XVIII 3, 267-302, 1984</li>
+<li>Yaeko Sato Habein　『The History of the Japanese Written Language』　University of Tokyo Press, 1984　<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0860083470" class="internal mw-magiclink-isbn">ISBN 0-86008-347-0</a></li>
+<li>Nanette Twine　『Language and the Modern State - The Reform of Written Japanese』　Routledge, 1991　<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0415009901" class="internal mw-magiclink-isbn">ISBN 0-4150-0990-1</a></li>
+<li>Christopher Seeley　『A History of Writing in Japan』　University of Hawai'i Press, 1991　<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/082482217X" class="internal mw-magiclink-isbn">ISBN 0-8248-2217-X</a></li>
+<li>Nanette Gottlieb　『Kanji Politics - Language Policy and Japanese Script』　Kegan Paul, 1996　<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0710305125" class="internal mw-magiclink-isbn">ISBN 0-7103-0512-5</a></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC" title="マーシャル・アンガー">J. Marshall Unger</a>　『Literacy and Script Reform in Occupation Japan: Reading Between the Lines』　OUP, 1996　<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0195101669" class="internal mw-magiclink-isbn">ISBN 0-1951-0166-9</a></li>
+<li><a href="/wiki/%E5%B0%8F%E6%9D%BE%E8%8B%B1%E9%9B%84" title="小松英雄">小松英雄</a>　『日本語書記史原論』　笠間書院、1998年</li>
+<li><a href="/wiki/%E5%B1%B1%E5%8F%A3%E4%BB%B2%E7%BE%8E" title="山口仲美">山口仲美</a>　『日本語の歴史』〈『岩波新書』〉　岩波書店、2006年</li>
+</ul>
+<h2><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=23" title="節を編集: 関連項目">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97" title="日本における漢字">日本における漢字</a></li>
+<li><a href="/wiki/%E6%97%A7%E5%AD%97%E4%BD%93" title="旧字体" class="mw-redirect">旧字体</a> - <a href="/wiki/%E6%96%B0%E5%AD%97%E4%BD%93" title="新字体">新字体</a></li>
+<li><a href="/wiki/%E5%9B%BD%E8%AA%9E%E5%9B%BD%E5%AD%97%E5%95%8F%E9%A1%8C" title="国語国字問題">国語国字問題</a></li>
+<li><a href="/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)" title="仮名 (文字)">仮名 (文字)</a></li>
+<li><a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">ひらがな</a>、<a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">カタカナ</a>、<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%8C%E8%AA%9E%E4%BB%AE%E5%90%8D" title="アイヌ語仮名">アイヌ語仮名</a>、<a href="/wiki/%E5%8F%B0%E6%B9%BE%E8%AA%9E%E4%BB%AE%E5%90%8D" title="台湾語仮名">台湾語仮名</a></li>
+<li><a href="/wiki/%E4%BB%AE%E5%90%8D%E9%81%A3" title="仮名遣" class="mw-redirect">仮名遣</a>
+<ul>
+<li><a href="/wiki/%E7%8F%BE%E4%BB%A3%E4%BB%AE%E5%90%8D%E9%81%A3%E3%81%84" title="現代仮名遣い">現代仮名遣い</a>、<a href="/wiki/%E6%AD%B4%E5%8F%B2%E7%9A%84%E4%BB%AE%E5%90%8D%E9%81%A3" title="歴史的仮名遣">歴史的仮名遣</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="ローマ字">ローマ字</a></li>
+<li><a href="/wiki/%E6%9B%B8%E8%A8%98%E8%A8%80%E8%AA%9E" title="書記言語">書記言語</a>、<a href="/wiki/%E6%96%87%E8%AA%9E%E4%BD%93_(%E6%97%A5%E6%9C%AC%E8%AA%9E)" title="文語体 (日本語)" class="mw-redirect">文語体 (日本語)</a></li>
+<li><a href="/wiki/%E6%96%87%E8%AA%9E" title="文語">文語</a>、<a href="/wiki/%E5%8F%A3%E8%AA%9E" title="口語">口語</a></li>
+<li><a href="/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6%A8%AA%E6%9B%B8%E3%81%8D" title="縦書きと横書き">縦書きと横書き</a></li>
+<li><a href="/wiki/%E3%83%AB%E3%83%93" title="ルビ">ルビ</a></li>
+<li><a href="/wiki/%E6%BC%A2%E6%96%87%E8%A8%93%E8%AA%AD" title="漢文訓読">漢文訓読</a></li>
+<li><a href="/wiki/%E5%85%AC%E7%94%A8%E6%96%87%E4%BD%9C%E6%88%90%E3%81%AE%E8%A6%81%E9%A0%98" title="公用文作成の要領">公用文作成の要領</a></li>
+<li><a href="/wiki/%E6%B2%96%E7%B8%84%E6%96%B9%E8%A8%80%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" title="沖縄方言の表記体系">沖縄方言の表記体系</a>、<a href="/wiki/%E6%96%B9%E8%A8%80%E5%AD%97" title="方言字">方言字</a></li>
+<li><a href="/wiki/%E3%82%B1%E3%82%BB%E3%83%B3%E8%AA%9E" title="ケセン語">ケセン語</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E6.96.87.E5.AD.97.E3.81.AE.E6.9B.B8.E4.BD.93">文字の書体</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=24" title="節を編集: 文字の書体">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E6%A5%B7%E6%9B%B8%E4%BD%93" title="楷書体">楷書体</a></li>
+<li><a href="/wiki/%E8%A1%8C%E6%9B%B8%E4%BD%93" title="行書体">行書体</a></li>
+<li><a href="/wiki/%E8%8D%89%E6%9B%B8%E4%BD%93" title="草書体">草書体</a></li>
+<li><a href="/wiki/%E6%B1%9F%E6%88%B8%E6%96%87%E5%AD%97" title="江戸文字">江戸文字</a>各種</li>
+<li><a href="/wiki/%E6%98%8E%E6%9C%9D%E4%BD%93" title="明朝体">明朝体</a></li>
+<li><a href="/wiki/%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93" title="ゴシック体">ゴシック体</a></li>
+<li><a href="/w/index.php?title=%E3%83%9D%E3%83%83%E3%83%97%E6%9B%B8%E4%BD%93&amp;action=edit&amp;redlink=1" class="new" title="ポップ書体 (存在しないページ)">ポップ書体</a></li>
+</ul>
+<h3><span class="mw-headline" id=".E4.BB.AE.E5.90.8D.E3.81.AE.E7.95.B0.E4.BD.93">仮名の異体</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=25" title="節を編集: 仮名の異体">編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E6%96%87%E5%AD%97" title="ギャル文字">ギャル文字</a></li>
+<li><a href="/wiki/%E5%A4%89%E4%BD%93%E4%BB%AE%E5%90%8D" title="変体仮名">変体仮名</a></li>
+<li><a href="/wiki/%E4%B8%87%E8%91%89%E4%BB%AE%E5%90%8D" title="万葉仮名">万葉仮名</a></li>
+<li><a href="/wiki/%E5%90%88%E7%95%A5%E4%BB%AE%E5%90%8D" title="合略仮名">合略仮名</a></li>
+</ul>
+<h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit&amp;section=26" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sisterproject noprint" style="border:1px solid #aaa;background-color:#f9f9f9;width:20em;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="font-size:100%;">ウィキメディア・コモンズには、<b><span class="plainlinks"><a class="external text" href="//commons.wikimedia.org/wiki/Category:Japanese_writing?uselang=ja">日本語の表記</a></span></b>に関連するカテゴリがあります。</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pinyin.info/readings/texts/unger2_introduction.html#modern_japanese">The Modern Japanese Writing System</a>: an excerpt from 『Literacy and Script Reform in Occupation Japan』 by J. Marshall Unger.</li>
+</ul>
+<table class="navbox" cellspacing="0" style=";">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist hlist-hyphen collapsible collapsed" style="width:100%;background:transparent;color:inherit;;">
+<tr>
+<th style=";" colspan="2" class="navbox-title">
+<div style="float:left; width:6em;text-align:left;">
+<div class="noprint plainlinks" style="background-color:transparent; padding:0; font-size:75%; color:#000000; white-space:nowrap; font-weight:normal;&#160;;;border:none;;"><a href="/wiki/Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE" title="Template:日本関連の項目"><span title="このテンプレートを表示します" style=";;border:none;;">表</span></a><span style="font-size:80%;">・</span><a href="/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE" title="Template‐ノート:日本関連の項目"><span style="color:#002bb8;;;border:none;;" title="このテンプレートのノートを表示します">話</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE&amp;action=edit"><span style="color:#002bb8;;;border:none;;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a><span style="font-size:80%;">・</span><a class="external text" href="//ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE&amp;action=history"><span style="color:#002bb8;;;border:none;;" title="このテンプレートの過去の版を表示します">歴</span></a></div>
+</div>
+<span style="font-size:110%;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg" class="image" title="日本の旗"><img alt="日本の旗" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png" width="25" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/38px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>関連の主要項目</span></th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">国語</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E6%97%97" title="日本の国旗">国旗</a></li>
+<li><a href="/wiki/%E5%90%9B%E3%81%8C%E4%BB%A3" title="君が代">国歌</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E7%AB%A0" title="日本の国章">国章</a></li>
+<li><a href="/wiki/%E6%B0%B4%E6%99%B6" title="水晶" class="mw-redirect">国石</a></li>
+<li><a href="/wiki/%E5%9B%BD%E8%8A%B1" title="国花">国花</a></li>
+<li><a href="/wiki/%E3%82%AA%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD" title="オオムラサキ">国蝶</a></li>
+<li><a href="/wiki/%E9%8C%A6%E9%AF%89" title="錦鯉" class="mw-redirect">国魚</a></li>
+<li><a href="/wiki/%E3%82%AD%E3%82%B8" title="キジ">国鳥</a></li>
+<li><a href="/wiki/%E7%8B%86" title="狆">国犬</a></li>
+<li><a href="/wiki/%E5%9B%BD%E6%8A%80#.E6.97.A5.E6.9C.AC.E3.81.AE.E5.9B.BD.E6.8A.80" title="国技">国技</a></li>
+</ul>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2" title="日本の歴史">歴史</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%99%82%E4%BB%A3%E5%8C%BA%E5%88%86%E8%A1%A8" title="日本史時代区分表">各時代</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B%E4%B8%80%E8%A6%A7" title="日本史の出来事一覧">年表</a></li>
+<li><a href="/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_(%E6%97%A5%E6%9C%AC)" title="元号一覧 (日本)">元号</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%94%BF%E6%B2%BB%E5%8F%B2" title="日本政治史">政治史</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B5%8C%E6%B8%88%E5%8F%B2" title="日本の経済史">経済史</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96#.E6.AD.B4.E5.8F.B2" title="日本の文化">文化史</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E5%8F%B2" title="日本の軍事史">軍事史</a></li>
+<li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E5%8F%B2" title="Category:日本のテーマ史">その他のテーマ史</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E7%90%86" title="日本の地理">地理</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6" title="日本列島">日本列島</a>
+<ul>
+<li><a href="/wiki/%E5%8C%97%E6%B5%B7%E9%81%93" title="北海道">北海道</a></li>
+<li><a href="/wiki/%E6%9C%AC%E5%B7%9E" title="本州">本州</a></li>
+<li><a href="/wiki/%E5%9B%9B%E5%9B%BD" title="四国">四国</a></li>
+<li><a href="/wiki/%E4%B9%9D%E5%B7%9E" title="九州">九州</a></li>
+<li><a href="/wiki/%E6%B2%96%E7%B8%84%E6%9C%AC%E5%B3%B6" title="沖縄本島">沖縄本島</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B3%B6%E3%81%AE%E4%B8%80%E8%A6%A7" title="日本の島の一覧">島一覧</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B1%B1%E4%B8%80%E8%A6%A7" title="日本の山一覧">山一覧</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%9D%E4%B8%80%E8%A6%A7" title="日本の川一覧">川一覧</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AB%AF%E3%81%AE%E4%B8%80%E8%A6%A7" title="日本の端の一覧">端一覧</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B5%B7%E5%9F%9F" title="Category:日本の海域">海域</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7" title="日本海">日本海</a></li>
+<li><a href="/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B" title="太平洋">太平洋</a></li>
+<li><a href="/wiki/%E6%9D%B1%E3%82%B7%E3%83%8A%E6%B5%B7" title="東シナ海">東シナ海</a></li>
+<li><a href="/wiki/%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E6%B5%B7" title="オホーツク海">オホーツク海</a></li>
+<li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B5%B7%E5%B3%A1" title="Category:日本の海峡">海峡</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%8E%92%E4%BB%96%E7%9A%84%E7%B5%8C%E6%B8%88%E6%B0%B4%E5%9F%9F" title="日本の排他的経済水域">EEZ</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%8C%97%E6%96%B9%E5%9C%B0%E5%9F%9F" title="北方地域">北方領土</a>
+<ul>
+<li><a href="/wiki/%E5%8C%97%E6%96%B9%E9%A0%98%E5%9C%9F%E5%95%8F%E9%A1%8C" title="北方領土問題">問題</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E7%AB%B9%E5%B3%B6_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)" title="竹島 (島根県)">竹島</a></li>
+<li><a href="/wiki/%E5%B0%96%E9%96%A3%E8%AB%B8%E5%B3%B6" title="尖閣諸島">尖閣諸島</a>
+<ul>
+<li><a href="/wiki/%E5%B0%96%E9%96%A3%E8%AB%B8%E5%B3%B6%E5%95%8F%E9%A1%8C" title="尖閣諸島問題">問題</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" title="日本の地域">地方行政区画</a>
+<ul>
+<li><a href="/wiki/%E5%8C%97%E6%97%A5%E6%9C%AC" title="北日本">北日本</a></li>
+<li><a href="/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC" title="東日本">東日本</a></li>
+<li><a href="/wiki/%E4%B8%AD%E6%97%A5%E6%9C%AC" title="中日本">中日本</a></li>
+<li><a href="/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC" title="西日本">西日本</a></li>
+<li><a href="/wiki/%E5%8D%97%E6%97%A5%E6%9C%AC" title="南日本">南日本</a></li>
+<li><a href="/wiki/%E8%A1%A8%E6%97%A5%E6%9C%AC" title="表日本">表日本</a></li>
+<li><a href="/wiki/%E8%A3%8F%E6%97%A5%E6%9C%AC" title="裏日本">裏日本</a></li>
+<li><a href="/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C" title="都道府県">都道府県</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E4%B8%80%E8%A6%A7" title="日本の地方公共団体一覧">地方自治体一覧</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD" title="令制国">令制国</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%92%B0%E5%A2%83%E3%81%A8%E7%92%B0%E5%A2%83%E6%94%BF%E7%AD%96" title="日本の環境と環境政策">環境</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A6%B3%E5%85%89" title="日本の観光">観光</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3" title="日本の世界遺産">世界遺産一覧</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB" title="日本の政治">政治</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%B3%95" title="日本法">法</a>
+<ul>
+<li><a href="/wiki/%E5%85%AD%E6%B3%95" title="六法">六法</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9B%BD%E6%86%B2%E6%B3%95" title="大日本帝国憲法">大日本帝国憲法</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95" title="日本国憲法">日本国憲法</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%A4%A9%E7%9A%87" title="天皇">天皇</a>
+<ul>
+<li><a href="/wiki/%E5%A4%A9%E7%9A%87%E3%81%AE%E4%B8%80%E8%A6%A7" title="天皇の一覧">一覧</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C" title="日本国政府">政府</a></li>
+<li><a href="/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3" title="内閣総理大臣">内閣総理大臣</a>
+<ul>
+<li><a href="/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%AE%E4%B8%80%E8%A6%A7" title="内閣総理大臣の一覧">一覧</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%86%85%E9%96%A3_(%E6%97%A5%E6%9C%AC)" title="内閣 (日本)">内閣</a></li>
+<li><a href="/wiki/%E5%9B%BD%E5%8B%99%E5%A4%A7%E8%87%A3" title="国務大臣">閣僚</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%96%A2" title="日本の行政機関">行政機関</a></li>
+<li><a href="/wiki/%E5%9B%BD%E4%BC%9A_(%E6%97%A5%E6%9C%AC)" title="国会 (日本)">国会</a>
+<ul>
+<li><a href="/wiki/%E8%A1%86%E8%AD%B0%E9%99%A2" title="衆議院">衆議院</a></li>
+<li><a href="/wiki/%E5%8F%82%E8%AD%B0%E9%99%A2" title="参議院">参議院</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E5%85%9A%E4%B8%80%E8%A6%A7" title="日本の政党一覧">政党</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%B8%E6%8C%99" title="日本の選挙">選挙</a>
+<ul>
+<li><a href="/wiki/%E8%A1%86%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E7%B7%8F%E9%81%B8%E6%8C%99" title="衆議院議員総選挙">衆議院議員総選挙</a></li>
+<li><a href="/wiki/%E5%8F%82%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E9%80%9A%E5%B8%B8%E9%81%B8%E6%8C%99" title="参議院議員通常選挙">参議院議員通常選挙</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80" title="日本の裁判所">裁判所</a>
+<ul>
+<li><a href="/wiki/%E6%9C%80%E9%AB%98%E8%A3%81%E5%88%A4%E6%89%80_(%E6%97%A5%E6%9C%AC)" title="最高裁判所 (日本)">最高裁</a></li>
+<li><a href="/wiki/%E9%81%95%E6%86%B2%E5%88%A4%E6%B1%BA" title="違憲判決">違憲判決</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%88%91%E4%BA%8B%E5%8F%B8%E6%B3%95" title="日本の刑事司法">刑事司法</a>
+<ul>
+<li><a href="/wiki/%E8%A3%81%E5%88%A4%E5%93%A1%E5%88%B6%E5%BA%A6" title="裁判員制度">裁判員制度</a></li>
+<li><a href="/wiki/%E5%88%91%E4%BA%8B%E6%96%BD%E8%A8%AD" title="刑事施設">刑事施設</a></li>
+<li><a href="/wiki/%E6%8B%98%E7%BD%AE%E6%89%80" title="拘置所">拘置所</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80" title="日本の刑務所">刑務所</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F" title="日本の警察">警察</a></li>
+<li><a href="/wiki/%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%BA%81" title="海上保安庁">海上警察</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B6%88%E9%98%B2" title="日本の消防">消防</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B" title="日本の軍事">軍事</a></li>
+<li><a href="/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A" title="自衛隊">自衛隊</a>
+<ul>
+<li><a href="/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A" title="陸上自衛隊">陸上</a></li>
+<li><a href="/wiki/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A" title="海上自衛隊">海上</a></li>
+<li><a href="/wiki/%E8%88%AA%E7%A9%BA%E8%87%AA%E8%A1%9B%E9%9A%8A" title="航空自衛隊">航空</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D" title="在日米軍">在日米軍</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%BA%92%E5%8D%94%E5%8A%9B%E5%8F%8A%E3%81%B3%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%9D%A1%E7%B4%84" title="日本国とアメリカ合衆国との間の相互協力及び安全保障条約">日米安保条約</a></li>
+<li><a href="/wiki/%E6%97%A5%E7%B1%B3%E5%9C%B0%E4%BD%8D%E5%8D%94%E5%AE%9A" title="日米地位協定">日米地位協定</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B5%8C%E6%B8%88" title="日本の経済">経済</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C" title="日本銀行">日本銀行</a></li>
+<li><a href="/wiki/%E5%86%86_(%E9%80%9A%E8%B2%A8)" title="円 (通貨)">日本円</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%9F%E7%A8%8E" title="日本の租税">租税</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%82%B5" title="日本国債">国債</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD" title="日本の農業">農業</a></li>
+<li><a href="/wiki/%E5%B7%A5%E6%A5%AD#.E6.97.A5.E6.9C.AC.E3.81.AE.E5.B7.A5.E6.A5.AD" title="工業">工業</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%B1%E6%A5%AD" title="日本の鉱業">鉱業</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93" title="日本の科学技術">科学技術</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E8%B3%87%E6%BA%90" title="日本のエネルギー資源">エネルギー資源</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9B%BB%E5%8A%9B%E4%BC%9A%E7%A4%BE" title="日本の電力会社">電力会社</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%99%BA%E9%9B%BB%E7%94%A8%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7" title="日本の発電用ダム一覧">水力</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E4%B8%80%E8%A6%A7" title="日本の火力発電所一覧">火力</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB" title="日本の風力発電">風力</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80" title="日本の原子力発電所">原子力</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E6%89%80" title="日本の太陽光発電所">太陽光</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%9E%E3%82%B9%E7%99%BA%E9%9B%BB%E6%89%80%E4%B8%80%E8%A6%A7" title="日本のバイオマス発電所一覧">バイオマス</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%8D%95%E9%AF%A8" title="日本の捕鯨">捕鯨</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%B0%E8%81%9E" title="日本の新聞">新聞</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%A4%E9%80%9A" title="日本の交通">交通</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%8B%95%E8%BB%8A" title="日本における自動車">自動車</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A" title="日本車">日本車</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF" title="日本の道路">道路</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF" title="日本の高速道路">高速道路</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%82%B9" title="日本のバス">バス</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC" title="日本のタクシー">タクシー</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93" title="日本の鉄道">鉄道</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E4%B8%8B%E9%89%84" title="日本の地下鉄">地下鉄</a></li>
+<li><a href="/wiki/%E6%96%B0%E5%B9%B9%E7%B7%9A" title="新幹線">新幹線</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A9%BA%E6%B8%AF" title="日本の空港">空港</a></li>
+<li><a href="/wiki/%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF" title="国際空港">国際空港</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E7%94%A3%E6%A5%AD" title="日本の航空機産業">航空機産業</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A" title="日本の自転車">自転車</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%AF%E6%B9%BE%E4%B8%80%E8%A6%A7" title="日本の港湾一覧">港湾</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7" title="日本の郵便番号">郵便番号</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7" title="日本の電話番号">電話番号</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1" title="日本における携帯電話">携帯電話</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AEIP%E9%9B%BB%E8%A9%B1" title="日本のIP電話">IP電話</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88" title="日本のインターネット">インターネット</a>
+<ul>
+<li><a href="/wiki/.jp" title=".jp">.jp</a></li>
+<li><a href="/wiki/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%83%B3%E3%83%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E6%8E%A5%E7%B6%9A#.E6.97.A5.E6.9C.AC.E3.81.A7.E3.81.AE.E5.B1.95.E9.96.8B" title="ブロードバンドインターネット接続">高速ネット接続</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BE%E9%80%81%E5%B1%80" title="日本のテレビジョン放送局">テレビ放送局</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E4%B8%8A%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81" title="日本の地上デジタルテレビ放送">地デジ</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A1%9B%E6%98%9F%E6%94%BE%E9%80%81" title="日本における衛星放送">衛星放送</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA" title="日本の宇宙開発">宇宙開発</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96" title="日本の文化">文化</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E" title="日本文明">日本文明</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1" title="日本神話">神話</a></li>
+<li><a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字">漢字</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97" title="日本における漢字">日本漢字</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)" title="仮名 (文字)">仮名</a>
+<ul>
+<li><a href="/wiki/%E7%89%87%E4%BB%AE%E5%90%8D" title="片仮名">片仮名</a></li>
+<li><a href="/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D" title="平仮名">平仮名</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97" title="日本式ローマ字">日本式ローマ字</a></li>
+<li><a href="/wiki/%E5%92%8C%E6%9C%8D" title="和服">和服</a>
+<ul>
+<li><a href="/wiki/%E5%B9%B3%E5%AE%89%E8%A3%85%E6%9D%9F" title="平安装束">平安装束</a></li>
+<li><a href="/wiki/%E6%B5%B4%E8%A1%A3" title="浴衣">浴衣</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E9%AB%AA" title="日本髪">日本髪</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%A2" title="日本人形">日本人形</a></li>
+<li><a href="/wiki/%E8%8A%B1%E8%A6%8B" title="花見">花見</a></li>
+<li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E3%81%AE%E8%B1%A1%E5%BE%B4" title="Category:日本の国の象徴">国の象徴</a>
+<ul>
+<li><a href="/wiki/%E6%A1%9C" title="桜" class="mw-redirect">桜</a></li>
+<li><a href="/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1" title="富士山">富士山</a></li>
+<li><a href="/wiki/%E4%BE%8D" title="侍">侍</a></li>
+<li><a href="/wiki/%E5%AF%BF%E5%8F%B8" title="寿司">寿司</a></li>
+<li><a href="/wiki/%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8" title="三種の神器">三種の神器</a></li>
+<li><a href="/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E" title="天照大神">天照大神</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A3%9F%E6%96%87%E5%8C%96" title="Category:日本の食文化">食文化</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86" title="日本料理">日本料理</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E9%85%92" title="日本酒">日本酒</a></li>
+<li><a href="/wiki/%E5%92%8C%E8%8F%93%E5%AD%90" title="和菓子">和菓子</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86" title="日本の郷土料理">郷土料理</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A3%9F%E4%BA%8B%E4%BD%9C%E6%B3%95" title="日本の食事作法">食事作法</a></li>
+<li><a href="/wiki/%E6%97%AC" title="旬">旬</a></li>
+<li><a href="/wiki/%E6%B4%8B%E9%A3%9F" title="洋食">洋食</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AF%89%E5%8F%B2" title="日本建築史">建築</a>
+<ul>
+<li><a href="/wiki/%E5%AF%9D%E6%AE%BF%E9%80%A0" title="寝殿造">寝殿造</a></li>
+<li><a href="/wiki/%E6%9B%B8%E9%99%A2%E9%80%A0" title="書院造">書院造</a></li>
+<li><a href="/wiki/%E6%AD%A6%E5%AE%B6%E9%80%A0" title="武家造">武家造</a></li>
+<li><a href="/wiki/%E6%95%B0%E5%AF%84%E5%B1%8B%E9%80%A0" title="数寄屋造" class="mw-redirect">数寄屋造</a></li>
+<li><a href="/wiki/%E5%90%88%E6%8E%8C%E9%80%A0" title="合掌造" class="mw-redirect">合掌造</a></li>
+<li><a href="/wiki/%E7%A5%9E%E7%A4%BE%E5%BB%BA%E7%AF%89" title="神社建築">神社建築</a></li>
+<li><a href="/w/index.php?title=%E5%AF%BA%E9%99%A2%E5%BB%BA%E7%AF%89&amp;action=edit&amp;redlink=1" class="new" title="寺院建築 (存在しないページ)">寺院建築</a></li>
+<li><a href="/wiki/%E7%90%89%E7%90%83%E5%BB%BA%E7%AF%89" title="琉球建築">琉球建築</a></li>
+<li><a href="/wiki/%E5%B8%9D%E5%86%A0%E6%A7%98%E5%BC%8F" title="帝冠様式">帝冠建築</a></li>
+<li><a href="/wiki/%E6%93%AC%E6%B4%8B%E9%A2%A8%E5%BB%BA%E7%AF%89" title="擬洋風建築">擬洋風建築</a>　</li>
+<li><a href="/wiki/%E5%92%8C%E6%B4%8B%E6%8A%98%E8%A1%B7%E5%BB%BA%E7%AF%89" title="和洋折衷建築">和洋折衷建築</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9F%8E" title="日本の城">城郭建築</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BD%8F%E5%AE%85" title="日本の住宅">住宅</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E5%AE%B6" title="日本の民家">民家</a></li>
+<li><a href="/wiki/%E9%95%B7%E5%B1%8B" title="長屋">長屋</a></li>
+<li><a href="/wiki/%E6%96%87%E5%8C%96%E4%BD%8F%E5%AE%85" title="文化住宅">文化住宅</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%92%8C%E5%AE%A4" title="和室">和室</a></li>
+<li><a href="/wiki/%E8%8C%B6%E5%AE%A4" title="茶室">茶室</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BE%BF%E6%89%80" title="日本の便所">便所</a></li>
+<li><a href="/wiki/%E8%8A%B8%E9%81%93" title="芸道">芸道</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD" title="日本伝統芸能">伝統芸能</a></li>
+<li><a href="/wiki/%E8%83%BD%E6%A5%BD" title="能楽">能楽</a></li>
+<li><a href="/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E" title="歌舞伎">歌舞伎</a></li>
+<li><a href="/wiki/%E4%BA%BA%E5%BD%A2%E6%B5%84%E7%91%A0%E7%92%83" title="人形浄瑠璃" class="mw-redirect">人形浄瑠璃</a></li>
+<li><a href="/wiki/%E5%92%8C%E6%AD%8C" title="和歌">和歌</a></li>
+<li><a href="/wiki/%E9%80%A3%E6%AD%8C" title="連歌">連歌</a></li>
+<li><a href="/wiki/%E5%94%B1%E6%AD%8C_(%E6%BC%94%E5%A5%8F%E6%B3%95)" title="唱歌 (演奏法)">唱歌</a></li>
+<li><a href="/wiki/%E7%9F%AD%E6%AD%8C" title="短歌">短歌</a></li>
+<li><a href="/wiki/%E4%BF%B3%E5%8F%A5" title="俳句">俳句</a></li>
+<li><a href="/wiki/%E5%B7%9D%E6%9F%B3" title="川柳">川柳</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%88%9E%E8%B8%8A" title="日本舞踊">日本舞踊</a></li>
+<li><a href="/wiki/%E8%8F%AF%E9%81%93" title="華道">華道</a></li>
+<li><a href="/wiki/%E9%A6%99%E9%81%93" title="香道">香道</a></li>
+<li><a href="/wiki/%E8%8C%B6%E9%81%93" title="茶道">茶道</a></li>
+<li><a href="/wiki/%E6%AD%8C%E9%81%93" title="歌道">歌道</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9B%B8%E9%81%93%E5%8F%B2" title="日本の書道史">書道</a></li>
+<li><a href="/wiki/%E9%9F%B3%E6%9B%B2" title="音曲">音曲</a></li>
+<li><a href="/wiki/%E9%82%A6%E6%A5%BD" title="邦楽">邦楽</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%AD%A6%E8%8A%B8_(%E6%97%A5%E6%9C%AC)" title="武芸 (日本)">武芸</a>
+<ul>
+<li><a href="/wiki/%E6%AD%A6%E9%81%93" title="武道">武道</a></li>
+<li><a href="/wiki/%E6%AD%A6%E5%A3%AB%E9%81%93" title="武士道">武士道</a></li>
+<li><a href="/wiki/%E5%8F%A4%E6%AD%A6%E9%81%93" title="古武道">古武道</a></li>
+<li><a href="/wiki/%E5%89%A3%E9%81%93" title="剣道">剣道</a></li>
+<li><a href="/wiki/%E7%9B%B8%E6%92%B2" title="相撲">相撲</a></li>
+<li><a href="/wiki/%E6%9F%94%E9%81%93" title="柔道">柔道</a></li>
+<li><a href="/wiki/%E5%90%88%E6%B0%97%E9%81%93" title="合気道">合気道</a></li>
+<li><a href="/wiki/%E5%BC%93%E9%81%93" title="弓道">弓道</a></li>
+<li><a href="/wiki/%E5%B1%85%E5%90%88%E9%81%93" title="居合道">居合道</a></li>
+<li><a href="/wiki/%E7%A9%BA%E6%89%8B%E9%81%93" title="空手道">空手道</a></li>
+<li><a href="/wiki/%E3%81%AA%E3%81%8E%E3%81%AA%E3%81%9F" title="なぎなた">なぎなた</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%AD%A6%E5%A3%AB" title="武士">武士</a></li>
+<li><a href="/wiki/%E5%BF%8D%E8%80%85" title="忍者">忍者</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%88%80" title="日本刀">日本刀</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6" title="日本文学">文学</a></li>
+<li><a href="/wiki/%E7%BE%8E%E6%84%8F%E8%AD%98" title="美意識">美意識</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93" title="日本美術">美術</a>
+<ul>
+<li><a href="/wiki/%E6%B5%AE%E4%B8%96%E7%B5%B5" title="浮世絵">浮世絵</a></li>
+<li><a href="/wiki/%E6%98%A5%E7%94%BB" title="春画">春画</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%BA%AD%E5%9C%92" title="日本庭園">日本庭園</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E9%8A%AD%E6%B9%AF" title="銭湯">銭湯</a></li>
+<li><a href="/wiki/%E6%97%85%E9%A4%A8" title="旅館">旅館</a></li>
+<li><a href="/wiki/%E6%B0%91%E5%AE%BF" title="民宿">民宿</a></li>
+<li><a href="/wiki/%E3%81%84%E3%81%8D" title="いき">いき</a></li>
+<li><a href="/wiki/%E3%82%8F%E3%81%B3%E3%83%BB%E3%81%95%E3%81%B3" title="わび・さび">わび・さび</a></li>
+<li><a href="/w/index.php?title=%E5%BA%A7%E7%A4%BC&amp;action=edit&amp;redlink=1" class="new" title="座礼 (存在しないページ)">座礼</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9A%A6" title="日本の暦">暦</a>
+<ul>
+<li><a href="/wiki/%E5%92%8C%E6%9A%A6" title="和暦">和暦</a></li>
+<li><a href="/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97" title="二十四節気">二十四節気</a></li>
+<li><a href="/wiki/%E8%BF%BD%E5%84%BA" title="追儺">追儺</a></li>
+<li><a href="/wiki/%E7%AF%80%E5%88%86" title="節分">節分</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%AD%A3%E6%9C%88" title="正月">正月</a>
+<ul>
+<li><a href="/wiki/%E6%AD%A3%E6%9C%88%E9%A3%BE%E3%82%8A" title="正月飾り">正月飾り</a></li>
+<li><a href="/wiki/%E5%BE%A1%E7%AF%80%E6%96%99%E7%90%86" title="御節料理">御節料理</a></li>
+<li><a href="/wiki/%E5%B9%B4%E8%B3%80%E7%8A%B6" title="年賀状">年賀状</a></li>
+<li><a href="/wiki/%E3%81%8A%E5%B9%B4%E7%8E%89" title="お年玉">お年玉</a></li>
+<li><a href="/wiki/%E5%88%9D%E8%A9%A3" title="初詣">初詣</a></li>
+<li><a href="/wiki/%E6%96%B0%E5%B9%B4%E4%BC%9A" title="新年会">新年会</a></li>
+<li><a href="/wiki/%E4%BB%95%E4%BA%8B%E5%A7%8B%E3%82%81" title="仕事始め">仕事始め</a></li>
+<li><a href="/wiki/%E9%8F%A1%E9%A4%85" title="鏡餅">鏡餅</a></li>
+<li><a href="/wiki/%E9%8F%A1%E9%96%8B%E3%81%8D" title="鏡開き">鏡開き</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E8%A1%A3%E6%9B%BF%E3%81%88" title="衣替え">衣替え</a></li>
+<li><a href="/wiki/%E3%81%8A%E7%9B%86" title="お盆">お盆</a></li>
+<li><a href="/wiki/%E4%B8%AD%E5%85%83" title="中元">中元</a></li>
+<li><a href="/wiki/%E6%AD%B3%E6%9A%AE" title="歳暮">歳暮</a></li>
+<li><a href="/wiki/%E5%BF%98%E5%B9%B4%E4%BC%9A" title="忘年会">忘年会</a></li>
+<li><a href="/wiki/%E5%A4%A7%E6%99%A6%E6%97%A5" title="大晦日">大晦日</a>
+<ul>
+<li><a href="/wiki/%E9%99%A4%E5%A4%9C%E3%81%AE%E9%90%98" title="除夜の鐘">除夜の鐘</a></li>
+<li><a href="/wiki/%E5%B9%B4%E8%B6%8A%E3%81%97%E8%95%8E%E9%BA%A6" title="年越し蕎麦">年越し蕎麦</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E5%9C%B0%E9%8E%AE%E7%A5%AD" title="地鎮祭">地鎮祭</a></li>
+<li><a href="/wiki/%E4%B8%8A%E6%A3%9F%E5%BC%8F" title="上棟式">上棟祭</a></li>
+<li><a href="/wiki/%E8%88%9E%E5%A6%93" title="舞妓">舞妓</a></li>
+<li><a href="/wiki/%E8%8A%B8%E5%A6%93" title="芸妓">芸妓</a></li>
+<li><a href="/wiki/%E9%81%8A%E5%BB%93" title="遊廓">遊廓</a></li>
+<li><a href="/wiki/%E9%81%8A%E5%A5%B3" title="遊女">遊女</a></li>
+<li><a href="/wiki/%E9%A3%AF%E7%9B%9B%E5%A5%B3" title="飯盛女">飯盛女</a></li>
+<li><a href="/wiki/%E6%AD%8C%E8%AC%A1%E6%9B%B2" title="歌謡曲">歌謡曲</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB" title="日本映画">映画</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%8A%E7%AC%91%E3%81%84%E5%8F%B2" title="日本お笑い史">演芸</a></li>
+<li><a href="/wiki/%E8%90%BD%E8%AA%9E" title="落語">落語</a></li>
+<li><a href="/wiki/%E5%9B%B2%E7%A2%81" title="囲碁">囲碁</a></li>
+<li><a href="/wiki/%E5%B0%86%E6%A3%8B" title="将棋">将棋</a></li>
+<li><a href="/wiki/%E3%82%AA%E3%82%BB%E3%83%AD_(%E9%81%8A%E6%88%AF)" title="オセロ (遊戯)">オセロ</a></li>
+<li><a href="/wiki/%E3%81%8B%E3%82%8B%E3%81%9F" title="かるた">かるた</a>（<a href="/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96" title="百人一首">百人一首</a>・<a href="/wiki/%E8%8A%B1%E6%9C%AD" title="花札">花札</a>）</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E6%88%A6%E4%BA%89" title="日本におけるゲーム機戦争">ゲーム</a></li>
+<li><a href="/wiki/%E5%92%8C%E6%A5%BD%E5%99%A8" title="和楽器">和楽器</a></li>
+<li><a href="/wiki/%E6%96%87%E9%83%A8%E7%9C%81%E5%94%B1%E6%AD%8C" title="文部省唱歌">文部省唱歌</a></li>
+<li><a href="/wiki/J-POP" title="J-POP">J-POP</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB" title="日本の漫画">漫画</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%8B%E3%83%A1" title="アニメ">アニメ</a></li>
+<li><a href="/wiki/%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC" title="コスプレ">コスプレ</a></li>
+<li><a href="/wiki/%E3%82%AE%E3%83%A3%E3%83%AB" title="ギャル">ギャル</a></li>
+<li><a href="/wiki/%E5%8F%AF%E6%84%9B%E3%81%84" title="可愛い">かわいい</a></li>
+<li><a href="/wiki/%E3%82%82%E3%81%A3%E3%81%9F%E3%81%84%E3%81%AA%E3%81%84" title="もったいない">もったいない</a></li>
+<li><a href="/wiki/%E3%82%92%E3%81%8B%E3%81%97" title="をかし">をかし</a></li>
+<li><a href="/wiki/%E3%82%82%E3%81%AE%E3%81%AE%E3%81%82%E3%81%AF%E3%82%8C" title="もののあはれ">もののあはれ</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%83%AC%E3%81%A8%E3%82%B1" title="ハレとケ">ハレとケ</a></li>
+<li><a href="/wiki/%E5%A4%A7%E5%92%8C%E9%AD%82" title="大和魂">大和魂</a></li>
+<li><a href="/wiki/%E5%B9%BD%E7%8E%84" title="幽玄">幽玄</a></li>
+<li><a href="/wiki/%E7%84%A1%E5%B8%B8" title="無常">無常</a></li>
+<li><a href="/wiki/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1" title="カラオケ">カラオケ</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%B5%81" title="日流">日流</a></li>
+<li><a href="/wiki/%E7%B5%B5%E6%96%87%E5%AD%97%E6%96%87%E5%8C%96" title="絵文字文化">絵文字文化</a></li>
+<li><a href="/wiki/%E3%81%8A%E3%81%9F%E3%81%8F" title="おたく">おたく</a></li>
+<li><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%89%E5%96%AB%E8%8C%B6" title="メイド喫茶">メイド喫茶</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;">社会</td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A8%80%E8%AA%9E" title="日本の言語">言語</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%B9%E8%A8%80" title="日本語の方言">方言</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88" title="日本の人口統計">人口統計</a></li>
+<li><a href="/wiki/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB_(%E6%97%A5%E6%9C%AC)" title="国勢調査 (日本)">国勢調査</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%95%99%E8%82%B2" title="日本の教育">教育</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E9%9A%9B%E9%96%A2%E4%BF%82" title="日本の国際関係">国際関係</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8C%BB%E7%99%82" title="日本の医療">医療</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A6%8F%E7%A5%89" title="日本の福祉">福祉</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7" title="日本の健康">健康</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89" title="日本の犯罪と治安">犯罪と治安</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%97%E6%95%99" title="日本の宗教">宗教</a>
+<ul>
+<li><a href="/wiki/%E7%A5%9E%E4%BB%8F%E7%BF%92%E5%90%88" title="神仏習合">神仏習合</a></li>
+<li><a href="/wiki/%E7%A5%9E%E9%81%93" title="神道">神道</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BB%8F%E6%95%99" title="日本の仏教">仏教</a></li>
+<li><a href="/wiki/%E9%99%B0%E9%99%BD%E9%81%93" title="陰陽道">陰陽道</a></li>
+<li><a href="/wiki/%E4%BF%AE%E9%A8%93%E9%81%93" title="修験道">修験道</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E5%8F%B2" title="日本キリスト教史">キリスト教</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E7%A4%BE%E4%BC%9A" title="日本のイスラム社会">イスラム教</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%84%92%E6%95%99" title="日本の儒教">儒教</a></li>
+<li><a href="/wiki/%E6%96%B0%E5%AE%97%E6%95%99" title="新宗教">新宗教</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" title="日本のスポーツ">スポーツ</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8" title="日本代表">日本代表</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%B3%B3%E6%B3%95" title="日本泳法">日本泳法</a></li>
+<li><a href="/wiki/%E9%A7%85%E4%BC%9D%E7%AB%B6%E4%BA%89" title="駅伝競争" class="mw-redirect">駅伝競争</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E7%9A%84%E7%B5%8C%E5%96%B6" title="日本的経営">日本的経営</a>
+<ul>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE" title="日本株式会社">日本株式会社</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BLGBT%E3%81%AE%E6%A8%A9%E5%88%A9" title="日本におけるLGBTの権利">LGBT</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AE%E4%B8%80%E8%A6%A7" title="日本一の一覧">日本一</a></li>
+<li><a href="/wiki/%E6%9D%91%E7%A4%BE%E4%BC%9A" title="村社会">村社会</a></li>
+<li><a href="/wiki/%E6%9D%91%E5%85%AB%E5%88%86" title="村八分">村八分</a></li>
+<li><a href="/wiki/%E3%82%B7%E3%83%9E%E7%A4%BE%E4%BC%9A" title="シマ社会">シマ社会</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-group" style=";;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA" title="日本人">民族</a></td>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%E5%A4%A7%E5%92%8C%E6%B0%91%E6%97%8F" title="大和民族">大和民族</a></li>
+<li><a href="/wiki/%E7%90%89%E7%90%83%E6%B0%91%E6%97%8F" title="琉球民族">琉球民族</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%8C" title="アイヌ">アイヌ</a>
+<ul>
+<li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%8C%E6%96%87%E5%8C%96" title="アイヌ文化">アイヌ文化</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E7%86%8A%E8%A5%B2" title="熊襲">熊襲</a></li>
+<li><a href="/wiki/%E8%9D%A6%E5%A4%B7" title="蝦夷">蝦夷</a></li>
+<li><a href="/wiki/%E3%82%B5%E3%83%B3%E3%82%AB_(%E9%9B%86%E5%9B%A3%E5%90%8D)" title="サンカ (集団名)">サンカ</a></li>
+<li><a href="/wiki/%E5%9C%A8%E5%A4%96%E6%97%A5%E6%9C%AC%E4%BA%BA" title="在外日本人">在外日本人</a>
+<ul>
+<li><a href="/wiki/%E4%B8%AD%E5%9B%BD%E6%AE%8B%E7%95%99%E6%97%A5%E6%9C%AC%E4%BA%BA" title="中国残留日本人">中国残留日本人</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E7%B3%BB%E4%BA%BA" title="日系人">日系人</a></li>
+<li><a href="/wiki/%E7%89%B9%E5%88%A5%E6%B0%B8%E4%BD%8F%E8%80%85" title="特別永住者">特別永住者</a></li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%96%E5%9B%BD%E4%BA%BA" title="日本の外国人">日本の外国人</a>
+<ul>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA" title="在日韓国・朝鮮人">朝鮮人</a></li>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA" title="在日中国人">中国人</a></li>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA" title="在日ブラジル人">ブラジル人</a></li>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BA%BA" title="在日アメリカ人">アメリカ人</a></li>
+<li><a href="/wiki/%E5%9C%A8%E6%97%A5%E3%83%88%E3%83%AB%E3%82%B3%E4%BA%BA" title="在日トルコ人">トルコ人</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E6%97%8F%E5%95%8F%E9%A1%8C" title="日本の民族問題">民族問題</a>
+<ul>
+<li><a href="/wiki/%E9%83%A8%E8%90%BD%E5%95%8F%E9%A1%8C" title="部落問題">部落問題</a></li>
+</ul>
+</li>
+<li><a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%98%E3%82%A4%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81" title="日本のヘイトスピーチ">ヘイトスピーチ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<ul>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Portal.svg" class="image" title="ポータル"><img alt="ポータル" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/16px-Portal.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/24px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/32px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a> <a href="/wiki/Portal:%E6%97%A5%E6%9C%AC" title="Portal:日本">ウィキポータル</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Folder_Hexagonal_Icon.svg" class="image" title="カテゴリ"><img alt="カテゴリ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></a> <a href="/wiki/Category:%E6%97%A5%E6%9C%AC" title="Category:日本">カテゴリ</a></li>
+<li><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Symbol_list_class.svg" class="image" title="一覧記事"><img alt="一覧記事" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /></a> <a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E4%B8%80%E8%A6%A7" title="Category:日本関連一覧">関連する一覧</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1135
+Cached time: 20160518021635
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.430 seconds
+Real time usage: 0.724 seconds
+Preprocessor visited node count: 4803/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67330/2097152 bytes
+Template argument size: 33077/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.55 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  486.399      1 - -total
+ 40.59%  197.414      1 - Template:Commonscat
+ 39.87%  193.934      1 - Template:Sister
+ 39.15%  190.430      1 - Template:Side_box
+ 37.66%  183.194      1 - Template:Plainlink
+ 37.00%  179.953      1 - Template:Ifempty
+ 16.99%   82.640      1 - Template:参照方法
+ 16.07%   78.156      1 - Template:Infobox_WS
+ 14.37%   69.876      1 - Template:Ambox
+ 12.76%   62.056      1 - Template:Infobox
+-->
+
+<!-- Saved in parser cache with key jawiki:pcache:idhash:378548-0!*!0!!ja!4!* and timestamp 20160518021634 and revision id 58656736
+ -->
+<noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=日本語の表記体系&amp;oldid=58656736">https://ja.wikipedia.org/w/index.php?title=日本語の表記体系&amp;oldid=58656736</a>」から取得					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD%97" title="Category:音節文字">音節文字</a></li><li><a href="/wiki/Category:%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97" title="Category:表語文字">表語文字</a></li><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98" title="Category:日本語の表記">日本語の表記</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%8F%82%E7%85%A7%E6%96%B9%E6%B3%95" title="Category:参照方法">参照方法</a></li><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2012%E5%B9%B42%E6%9C%88" title="Category:出典を必要とする記述のある記事/2012年2月">出典を必要とする記述のある記事/2012年2月</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>案内メニュー</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">個人用ツール</h3>
+						<ul>
+							<li id="pt-anonuserpage">ログインしていません</li><li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li><li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;type=signup" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li><li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名前空間</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB"  title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB"  title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>変種</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">表示</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" >閲覧</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">検索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput"/><input type="hidden" value="特別:検索" name="title"/><input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"  title="メインページに移動する"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>案内</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li><li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li><li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li><li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li><li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li><li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li><li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li><li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>ヘルプ</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li><li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li><li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li><li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li><li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>印刷/書き出し</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB">ブックの新規作成</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;returnto=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;oldid=58656736&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li><li id="t-print"><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>他のプロジェクト</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Japanese_writing" hreflang="en">コモンズ</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>ツール</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li><li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li><li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li><li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li><li id="t-permalink"><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;oldid=58656736" title="このページのこの版への固定リンク">この版への固定リンク</a></li><li id="t-info"><a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;action=info" title="このページについての詳細情報">ページ情報</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q190502" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li><li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;id=58656736" title="このページの引用方法">このページを引用</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>他言語版</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Japannese_skryfstelsel" title="アフリカーンス語: Japannese skryfstelsel" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D9%83%D8%AA%D8%A7%D8%A8%D8%A9_%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A" title="アラビア語: نظام كتابة ياباني" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%96%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%81%D1%86%D1%8C" title="ベラルーシ語: Японская пісьменнасць" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE_%D0%BF%D0%B8%D1%81%D0%BC%D0%BE" title="ブルガリア語: Японско писмо" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF_%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%A8_%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF" title="ベンガル語: জাপানি লিখন পদ্ধতি" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Escriptura_japonesa" title="カタロニア語: Escriptura japonesa" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="秀逸な記事"><a href="//de.wikipedia.org/wiki/Japanische_Schrift" title="ドイツ語: Japanische Schrift" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="//dsb.wikipedia.org/wiki/Japaniske_pismo" title="低ソルビア語: Japaniske pismo" lang="dsb" hreflang="dsb">Dolnoserbski</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%99%CE%B1%CF%80%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CF%81%CE%B1%CF%86%CE%AE" title="ギリシャ語: Ιαπωνική γραφή" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Japanese_writing_system" title="英語: Japanese writing system" lang="en" hreflang="en">English</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Japanaj_skribsistemoj" title="エスペラント語: Japanaj skribsistemoj" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Escritura_japonesa" title="スペイン語: Escritura japonesa" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D9%86%DA%AF%D8%A7%D8%B1%D8%B4_%D8%B2%D8%A8%D8%A7%D9%86_%DA%98%D8%A7%D9%BE%D9%86%DB%8C" title="ペルシア語: سامانه نگارش زبان ژاپنی" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Japanin_kirjoitusj%C3%A4rjestelm%C3%A4" title="フィンランド語: Japanin kirjoitusjärjestelmä" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/%C3%89critures_du_japonais" title="フランス語: Écritures du japonais" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Escrita_xaponesa" title="ガリシア語: Escrita xaponesa" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%83%D5%A1%D5%BA%D5%B8%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A3%D5%AB%D6%80" title="アルメニア語: Ճապոնական գիր" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Sistem_penulisan_bahasa_Jepang" title="インドネシア語: Sistem penulisan bahasa Jepang" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sistema_di_scrittura_giapponese" title="イタリア語: Sistema di scrittura giapponese" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%93%E1%83%90%E1%83%9B%E1%83%AC%E1%83%94%E1%83%A0%E1%83%9A%E1%83%9D%E1%83%91%E1%83%90" title="ジョージア語: იაპონური დამწერლობა" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD_%D0%B6%D0%B0%D0%B7%D1%83%D1%8B" title="カザフ語: Жапон жазуы" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Scriptura_Iaponica" title="ラテン語: Scriptura Iaponica" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Japon%C5%B3_ra%C5%A1tas" title="リトアニア語: Japonų raštas" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Jap%C4%81%C5%86u_rakst%C4%ABba" title="ラトビア語: Japāņu rakstība" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Japans_schrift" title="オランダ語: Japans schrift" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Japansk_skrift" title="ノルウェー語(ニーノシュク): Japansk skrift" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Japansk_skrift" title="ノルウェー語: Japansk skrift" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%9C%E0%AC%BE%E0%AC%AA%E0%AC%BE%E0%AC%A8%E0%AD%80_%E0%AC%B2%E0%AC%BF%E0%AC%96%E0%AC%A8_%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%A3%E0%AC%BE%E0%AC%B3%E0%AD%80" title="オリヤー語: ଜାପାନୀ ଲିଖନ ପ୍ରଣାଳୀ" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pismo_japo%C5%84skie" title="ポーランド語: Pismo japońskie" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Escrita_japonesa" title="ポルトガル語: Escrita japonesa" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Scrierea_japonez%C4%83" title="ルーマニア語: Scrierea japoneză" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="ロシア語: Японская письменность" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Japonsk%C3%A9_p%C3%ADsmo" title="スロバキア語: Japonské písmo" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%88%D0%B0%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D0%BF%D0%B8%D1%81%D0%BC%D0%B0" title="セルビア語: Јапанска писма" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="//su.wikipedia.org/wiki/Sistim_tulis_Jepang" title="スンダ語: Sistim tulis Jepang" lang="su" hreflang="su">Basa Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Japanska_skriftspr%C3%A5ket" title="スウェーデン語: Japanska skriftspråket" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99" title="タイ語: อักษรญี่ปุ่น" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BF%D0%B8%D1%81%D0%B5%D0%BC%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="ウクライナ語: Японська писемність" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%AC%D8%A7%D9%BE%D8%A7%D9%86%DB%8C_%D8%B1%D8%B3%D9%85_%D8%A7%D9%84%D8%AE%D8%B7" title="ウルドゥー語: جاپانی رسم الخط" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%97%A5%E8%AA%9E%E6%9B%B8%E5%AF%AB%E7%B3%BB%E7%B5%B1" title="中国語: 日語書寫系統" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q190502#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 最終更新 2016年2月18日 (木) 06:34 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+											<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//meta.wikimedia.org/wiki/Privacy_policy/ja" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li>
+											<li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.dismissableSiteNotice"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1090"});});</script>
+	</body>
+</html>
