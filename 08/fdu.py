@@ -45,9 +45,28 @@ def sort_animals2(animals):
     
     return [value[1] for value in list_of_pairs]
 
-print(shorter_then_5(animals_list('zviratka.txt')))
-print(starting_with_k(animals_list('zviratka.txt')))
-print(if_is_in_list(animals_list('zviratka.txt'), 'had'))
-print(two_lists(animals_list('zviratka.txt'), animals_list('zviratka2.txt')))
-print(sort_animals(animals_list('zviratka2.txt')))
-print(sort_animals2(animals_list('zviratka2.txt')))
+def reversed_poem(poem):
+    with open(poem, encoding='UTF-8') as poem:
+        poem_list = (poem.read().split('\n'))
+    poem_list.reverse()
+    for line in poem_list:
+        print(line)
+
+def reversed_lines_poem(poem):
+    with open(poem, encoding='UTF-8') as poem:
+        poem_list = (poem.read().split('\n'))
+    list_line = []
+    for line in poem_list:     
+        list_line.append(line.split(' '))
+    for word in list_line:
+        word.reverse()
+        print(' '.join(word))
+
+#print(shorter_then_5(animals_list('zviratka.txt')))
+#print(starting_with_k(animals_list('zviratka.txt')))
+#print(if_is_in_list(animals_list('zviratka.txt'), 'had'))
+#print(two_lists(animals_list('zviratka.txt'), animals_list('zviratka2.txt')))
+#print(sort_animals(animals_list('zviratka2.txt')))
+#print(sort_animals2(animals_list('zviratka2.txt')))
+#reversed_poem('basnicka.txt')
+reversed_lines_poem('basnicka.txt')
