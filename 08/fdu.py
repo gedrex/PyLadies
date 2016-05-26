@@ -45,22 +45,33 @@ def sort_animals2(animals):
     
     return [value[1] for value in list_of_pairs]
 
-def reversed_poem(poem):
+def read_poem(poem):
     with open(poem, encoding='UTF-8') as poem:
-        poem_list = (poem.read().split('\n'))
+        return poem.read().split('\n')
+
+def reversed_poem(poem):
+    poem_list = read_poem(poem)
     poem_list.reverse()
     for line in poem_list:
         print(line)
 
 def reversed_lines_poem(poem):
-    with open(poem, encoding='UTF-8') as poem:
-        poem_list = (poem.read().split('\n'))
+    poem_list = read_poem(poem)
     list_line = []
     for line in poem_list:     
         list_line.append(line.split(' '))
     for word in list_line:
         word.reverse()
         print(' '.join(word))
+
+def poem_reversed_parts(poem):
+    poem_parts = []
+    with open(poem, encoding='UTF-8') as poem:
+        poem_list = poem.read().split('\n\n')
+    poem_list.reverse()
+    print(poem_list)
+    for part in poem_list:
+        print(part, '\n')
 
 #print(shorter_then_5(animals_list('zviratka.txt')))
 #print(starting_with_k(animals_list('zviratka.txt')))
@@ -69,4 +80,5 @@ def reversed_lines_poem(poem):
 #print(sort_animals(animals_list('zviratka2.txt')))
 #print(sort_animals2(animals_list('zviratka2.txt')))
 #reversed_poem('basnicka.txt')
-reversed_lines_poem('basnicka.txt')
+#reversed_lines_poem('basnicka.txt')
+poem_reversed_parts('basnicka.txt')
