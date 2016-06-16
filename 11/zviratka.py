@@ -1,4 +1,4 @@
-#!/home/gedrex/pyladies/venv/bin/python
+#!../venv/bin/python
 
 ###
 #Python nejdriv hleda metody a atributy v podtride, pak se teprve kouka do rodicovske. Pokud funguje dedicnost, jdeme tedy odspoda nahoru.
@@ -60,7 +60,7 @@ class Volant:
 
 class Auto:
     def __init__(self, volant=None):
-        is volant == None:
+        if volant == None:
             self.volant = Volant()
         else:
             self.volant = volant
