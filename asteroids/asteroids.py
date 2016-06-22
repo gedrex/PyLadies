@@ -2,12 +2,13 @@
 
 import math
 import pyglet
-from pyglet import gl
+from pyglet.gl import *
 
 WIDTH = 1400 
 HEIGHT = 800
 ROTATION_SPEED = 300
 ACCELERATION = 30
+
 
 pressed_keys = set()
 #load image and give it anchors
@@ -17,7 +18,7 @@ def load_image(filename):
     image.anchor_y = image.height // 2
     return image
 
-spaceship_img = load_image('./spaceship.png')
+spaceship_img = load_image('./graphics/spaceship.png')
 
 #spaceship definition
 class Spaceship:
@@ -29,6 +30,8 @@ class Spaceship:
         self.y_speed = 0
         self.rotation = rotation
         self.sprite = pyglet.sprite.Sprite(spaceship_img, batch=batch) 
+        image_size = (self.window.width // self.sprite.width)/10
+        self.sprite.scale = image_size 
 
     def tick(self,dt):
         if pyglet.window.key.LEFT in pressed_keys:
@@ -37,12 +40,12 @@ class Spaceship:
         if pyglet.window.key.RIGHT in pressed_keys:
             self.rotation -= dt * ROTATION_SPEED
 
-        if pyglet.window.key.UP in pressed_keys:
+        if pyglet.window.key.DOWN in pressed_keys:
             rotation_radians = math.radians(self.rotation)
             self.x_speed += dt * ACCELERATION * math.cos(rotation_radians)
             self.y_speed += dt * ACCELERATION * math.sin(rotation_radians)
 
-        if pyglet.window.key.DOWN in pressed_keys:
+        if pyglet.window.key.UP in pressed_keys:
             rotation_radians = math.radians(self.rotation)
             self.x_speed -= dt * ACCELERATION * math.cos(rotation_radians)
             self.y_speed -= dt * ACCELERATION * math.sin(rotation_radians)
@@ -68,7 +71,6 @@ objects = []
 
 #events on objects
 batch = pyglet.graphics.Batch()
-
 
 def draw():
     #clear window from pictures
